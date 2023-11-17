@@ -1,0 +1,117 @@
+# Required sections
+name: "Hugo 1"
+author: "Nicolas Hurtubise"
+category: steganography
+description: |
+  Heureux qui comme Ulysse
+  Entends le son du clocher
+  Lent et doux, très tôt
+  Près d'un rocher maritime
+
+  Indomptable ciel;
+  Matinales horizons;
+
+  Tes couleurs m'éblouissent
+  Reclus, moi
+  Amertume maudite
+  Piètre vie
+  Piètre existance
+  Entends-tu ma voix?
+  Du haut de ma montagne
+
+  Incapable de te rejoindre
+  NOVE SED NON NOVA
+
+  A quoi bon crier
+
+  Crier, crier, crier
+  Tant bien que mal
+  Fatigué de monter
+
+  Fatigué de cet amour
+  Amour qui m'épuise
+  Car lui, qui envahit mon âme
+  Toi, qui envahit ma vie
+  O, ciel éblouissant
+  Regard profond
+  Yeux ébahits
+value: 100
+type: standard
+
+# Settings used for Dockerfile deployment
+# If not used, remove or set to null
+# If you have a Dockerfile set to .
+# If you have an imaged hosted on Docker set to the image url (e.g. python/3.8:latest, registry.gitlab.com/python/3.8:latest)
+# Follow Docker best practices and assign a tag
+image: null
+
+# Specify a protocol that should be used to connect to the running image
+# For example if the image is a website you can specify http or https
+# Otherwise you can specify tcp
+protocol: null
+
+# Specify a host to deploy the challenge onto.
+# The currently supported URI schemes are ssh:// and registry://
+# ssh is an ssh URI where the above image will be copied to and deployed (e.g. ssh://root@123.123.123.123)
+# registry is a Docker registry tag (e.g registry://registry.example.com/test/image)
+# host can also be specified during the deploy process: `ctf challenge deploy challenge --host=ssh://root@123.123.123.123`
+host: null
+
+# Optional settings
+
+# connection_info is used to provide a link, hostname, or instructions on how to connect to a challenge
+#connection_info: nc hostname 12345
+
+# Flags specify answers that your challenge use. You should generally provide at least one.
+# Can be removed if unused
+# Accepts strings or dictionaries of CTFd API data
+flags:
+    # A static case sensitive flag
+    - flag{Victor-Hugo-etait-un-fou-qui-se-prenait-pour-Victor-Hugo}
+
+# Topics are used to help tell what techniques/information a challenge involves
+# They are generally only visible to admins
+# Accepts strings
+topics:
+    - Steganography
+
+# Tags are used to provide additional public tagging to a challenge
+# Can be removed if unused
+# Accepts strings
+# tags:
+#     - web
+#     - sandbox
+#     - js
+
+# Provide paths to files from the same directory that this file is in
+# Accepts strings
+files:
+    - hugo1.txt
+
+# Hints are used to give players a way to buy or have suggestions. They are not
+# required but can be nice.
+# Can be removed if unused
+# Accepts dictionaries or strings
+# hints:
+#     - {
+#         content: "This hint costs points",
+#         cost: 10
+#     }
+#     - This hint is free
+
+# Requirements are used to make a challenge require another challenge to be
+# solved before being available.
+# Can be removed if unused
+# Accepts challenge names as strings or challenge IDs as integers
+# requirements:
+#     - "Warmup"
+#     - "Are you alive"
+
+# The state of the challenge.
+# If the field is omitted, the challenge is visible by default.
+# If provided, the field can take one of two values: hidden, visible.
+state: hidden
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"
