@@ -1,0 +1,59 @@
+# Name of the challenge
+name: "challenge name"
+
+# This key isn't optional, but you can set it to 'anonymous' if you want to stay anonymous.
+author: "author"    
+
+# Description of the challenge (Markdown supported).
+description: This is a sample description
+
+
+# Flags specify answers that your challenge use.
+# Accepts strings or dictionaries of CTFd API data
+# !! YOU NEED AT LEAST ONE FLAG !!
+flags:
+    # A static case sensitive flag
+    - flag{3xampl3}
+    # A static case sensitive flag created with a dictionary
+    - {
+        type: "static",
+        content: "flag{wat}",
+    }
+    # A static case insensitive flag
+    - {
+        type: "static",
+        content: "flag{wat}",
+        data: "case_insensitive",
+    }
+    # A regex case insensitive flag
+    - {
+        type: "regex",
+        content: "(.*)STUFF(.*)",
+        data: "case_insensitive",
+    }
+
+
+# Tags are used to provide additional public tagging to a challenge
+# Accepts strings
+# !! YOU NEED AT LEAST ONE TAG !!
+tags:
+    - web
+    - sandbox
+    - js
+
+
+# Provide paths to files from the same directory that this file is in
+# Accepts strings
+# !! REMOVE IF UNUSED !!
+files:
+    - dist/source.py
+
+
+# Requirements are used to make a challenge require another challenge to be
+# solved before being available.
+# Accepts challenge names as strings
+# !! REMOVE IF UNUSED !!
+requirements:
+    - "Warmup"
+    - "Are you alive"
+
