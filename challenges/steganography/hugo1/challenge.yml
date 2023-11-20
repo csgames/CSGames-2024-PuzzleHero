@@ -1,0 +1,38 @@
+name: "Hugo 1"
+author: "Nicolas Hurtubise"
+description: |
+  Heureux qui comme Ulysse
+  Entends le son du clocher
+  Lent et doux, très tôt
+  Près d'un rocher maritime
+  Indomptable ciel;
+  Matinales horizons;
+  Tes couleurs m'éblouissent
+  Reclus, moi
+  Amertume maudite
+  Piètre vie
+  Piètre existance
+  Entends-tu ma voix?
+  Du haut de ma montagne
+  Incapable de te rejoindre
+  NOVE SED NON NOVA
+  A quoi bon crier
+  Crier, crier, crier
+  Tant bien que mal
+  Fatigué de monter
+  Fatigué de cet amour
+  Amour qui m'épuise
+  Car lui, qui envahit mon âme
+  Toi, qui envahit ma vie
+  O, ciel éblouissant
+  Regard profond
+  Yeux ébahits
+
+flags:
+    - flag{Victor-Hugo-etait-un-fou-qui-se-prenait-pour-Victor-Hugo}
+
+tags:
+    - steganography
+
+files:
+    - hugo1.txt
