@@ -1,0 +1,41 @@
+name: CTFd-test
+
+on: [pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0.0
+
+      - name: Run linter
+        id: linter
+        run: |
+          ruby scripts/linter.rb > linter_output
+          exit $?
+        shell: bash
+
+      - name: Comment on PR if linter failed
+        if: ${{ failure() }}
+        run: |
+          COMMENT=$(cat <<EOF
+          # :warning: **Failure** :warning:
+
+          $(cat linter_output)
+          EOF
+          )
+          
+          content=$(echo "$COMMENT" | jq -R --slurp '{body: .}')
+          echo "$content"
+
+          curl -sSL -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+                    -H "Content-Type: application/json" \
+                    -d "$content" \
+                    "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments"
+        shell: bash
