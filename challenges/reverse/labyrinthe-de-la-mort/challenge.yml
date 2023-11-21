@@ -1,0 +1,14 @@
+name: "Le Labyrinthe de la MORT"
+author: "Nicolas Hurtubise"
+description: |
+  If you stare at yourself in the mirror and repeat the name of Bjarne Stroustrup three times, a new C++ Standard appears.
+  Do NOT try this at home.
+
+flags:
+    - FLAG-LesTemplatesMeStressentPlusQueLeMinotaure
+
+tags:
+    - reverse
+
+files:
+    - labyrinthe.cpp
