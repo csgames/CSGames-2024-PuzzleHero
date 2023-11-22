@@ -1,0 +1,15 @@
+name: "Lies"
+author: "Nicolas Hurtubise"
+description: |
+  For once, I'll just tell you the flag directly, no ROT13, no morse code, no base64, no funny encodings.
+
+  It's the truth! Don't you not know I ain't not the opposite of not a liar?
+
+flags:
+    - FLAG-idontbelievenottheoppositeofthecontraryof!notnotthatisnotthecontraryofnottheoppositeofnottheoppositeofnotnotthe!notnotnot!notnotnot!not!not!!!wrongflagalthoughiamthecontraryof!!!!nottheoppositeof!theoppositeof!notnotnottheoppositeofnotnotlying
+
+tags:
+    - misc
+
+files:
+    - lies.txt.zip
