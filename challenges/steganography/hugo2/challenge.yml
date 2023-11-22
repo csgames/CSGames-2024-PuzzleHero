@@ -1,0 +1,15 @@
+name: "Hugo 2"
+author: "Nicolas Hurtubise"
+description: |
+  Spoiler: Jean Valjean dies at the end
+flags:
+    - flag{Victor.Hugo.Boss}
+
+tags:
+    - steganography
+
+files:
+    - hugo2.txt
+
+requirements:
+    - "Hugo 1"
