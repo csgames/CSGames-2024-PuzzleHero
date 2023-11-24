@@ -1,0 +1,35 @@
+name: "ante toki nanpa wan"
+author: "Nicolas Hurtubise"
+description: |
+  jan pi utala musi o, toki!
+  
+  mi jan Nikola li wile pana e utala musi sin tawa sina. utala musi sin ni li utala pi toki pona.
+  
+  mi sona e ni: jan pi mute lili li ken toki kepeken nasin pona pi toki pona. ni la mi wile e ni: jan li kama sona. sina wile pona la, sina a o kama sona.
+  
+  utala ale li sama ni: utala li pana sona e ijo pi ilo sona. o toki e nimi ona kepeken toki Inli. toki sina ni o kepeken nimi wan taso.
+  
+  taso ijo wan li suli: nasin pi pana toki li lon. o kepeken nasin ni lon toki sina ale: o pana e toki sina kepeken nimi sama ni: len{toki sina}
+  
+  pona o tawa sina a; o utala pona!
+
+  ---
+
+  utala musi nanpa wan
+  ====================
+  
+  poki pi ilo sona li mute, li ken jo e nanpa.
+  
+  lawa pi ilo sona li wile lukin e poki nanpa la, ni li kepeken tenpo mute mute mute...
+  
+  ni li ike a! ni la, jan li pali e ni: lawa pi ilo sona li jo e poki ante. poki ni li poki pi tenpo poka. ilo li wile lukin e poki nanpa sin la, ilo sona li pana e nanpa ona tawa poki pi tenpo poka. ni li kepeken tenpo mute mute mute, taso tenpo kama la, nanpa ni li lon poka sina. nanpa li lon poki pi tenpo poka la, sina ken lukin e ona kepeken tenpo lili lili lili. ni li pona tawa ilo sona a!
+  
+  ilo sona mute la, poki pi tenpo poka li tu wan. sina wile lukin tawa insa pi kipisi nanpa wan la, ni li kepeken tenpo lili lili lili. kipisi nanpa tu la, ni li kepeken tenpo lili lili. kipisi nanpa tu wan la, ni li kepeken tenpo pi lili taso. taso, ni ale li pona. ni li ike: sina ken ala lukin tawa poki pi tenpo poka la, sina o lukin tawa poki nanpa la, ni li kepeken tenpo mute mute mute...
+  
+  ijo ni li seme? o pana e nimi wan. o kepeken nasin pi pana toki.
+
+flags:
+    - len{cache}
+
+tags:
+    - toki
