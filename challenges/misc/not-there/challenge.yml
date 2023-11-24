@@ -1,0 +1,13 @@
+name: "Not there"
+author: "Nicolas Hurtubise"
+description: |
+  It's all not there
+
+flags:
+    - F1AG-W4St3dM&m0rY
+
+tags:
+    - misc
+
+files:
+    - flag.c
