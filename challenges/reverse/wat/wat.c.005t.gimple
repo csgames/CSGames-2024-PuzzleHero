@@ -1,0 +1,387 @@
+wat0 ()
+{
+  void * D.2943;
+
+  putchar (76);
+  wow_la.0_1 = wow_la;
+  D.2943 = MEM[(void * *)wow_la.0_1 + -168B];
+  return D.2943;
+}
+
+
+wat1 ()
+{
+  void * D.2945;
+
+  putchar (109);
+  wow_la.1_1 = wow_la;
+  D.2945 = MEM[(void * *)wow_la.1_1 + -56B];
+  return D.2945;
+}
+
+
+wat2 ()
+{
+  void * D.2947;
+
+  putchar (108);
+  wow_la.2_1 = wow_la;
+  D.2947 = MEM[(void * *)wow_la.2_1 + -96B];
+  return D.2947;
+}
+
+
+wat3 ()
+{
+  void * D.2949;
+
+  putchar (71);
+  wow_la.3_1 = wow_la;
+  D.2949 = MEM[(void * *)wow_la.3_1 + -32B];
+  return D.2949;
+}
+
+
+wat4 ()
+{
+  void * D.2951;
+
+  putchar (116);
+  wow_la.4_1 = wow_la;
+  D.2951 = MEM[(void * *)wow_la.4_1 + -120B];
+  return D.2951;
+}
+
+
+wat5 ()
+{
+  void * D.2953;
+
+  putchar (65);
+  wow_la.5_1 = wow_la;
+  D.2953 = MEM[(void * *)wow_la.5_1 + -184B];
+  return D.2953;
+}
+
+
+wat6 ()
+{
+  void * D.2955;
+
+  putchar (71);
+  wow_la.6_1 = wow_la;
+  D.2955 = MEM[(void * *)wow_la.6_1 + -64B];
+  return D.2955;
+}
+
+
+wat7 ()
+{
+  void * D.2957;
+
+  putchar (108);
+  wow_la.7_1 = wow_la;
+  D.2957 = MEM[(void * *)wow_la.7_1 + -128B];
+  return D.2957;
+}
+
+
+wat8 ()
+{
+  void * D.2959;
+
+  putchar (105);
+  wow_la.8_1 = wow_la;
+  D.2959 = MEM[(void * *)wow_la.8_1 + -16B];
+  return D.2959;
+}
+
+
+wat9 ()
+{
+  void * D.2961;
+
+  putchar (104);
+  wow_la.9_1 = wow_la;
+  D.2961 = MEM[(void * *)wow_la.9_1 + -24B];
+  return D.2961;
+}
+
+
+wat10 ()
+{
+  void * D.2963;
+
+  putchar (101);
+  wow_la.10_1 = wow_la;
+  D.2963 = MEM[(void * *)wow_la.10_1 + -40B];
+  return D.2963;
+}
+
+
+wat11 ()
+{
+  void * D.2965;
+
+  putchar (116);
+  wow_la.11_1 = wow_la;
+  D.2965 = MEM[(void * *)wow_la.11_1 + -88B];
+  return D.2965;
+}
+
+
+wat12 ()
+{
+  void * D.2967;
+
+  putchar (70);
+  wow_la.12_1 = wow_la;
+  D.2967 = MEM[(void * *)wow_la.12_1 + -208B];
+  return D.2967;
+}
+
+
+wat13 ()
+{
+  void * D.2969;
+
+  putchar (77);
+  wow_la.13_1 = wow_la;
+  D.2969 = MEM[(void * *)wow_la.13_1 + -144B];
+  return D.2969;
+}
+
+
+wat14 ()
+{
+  void * D.2971;
+
+  putchar (32);
+  wow_la.14_1 = wow_la;
+  D.2971 = MEM[(void * *)wow_la.14_1 + -160B];
+  return D.2971;
+}
+
+
+wat15 ()
+{
+  void * D.2973;
+
+  putchar (32);
+  wow_la.15_1 = wow_la;
+  D.2973 = MEM[(void * *)wow_la.15_1 + -104B];
+  return D.2973;
+}
+
+
+wat16 ()
+{
+  void * D.2975;
+
+  putchar (83);
+  wow_la.16_1 = wow_la;
+  D.2975 = MEM[(void * *)wow_la.16_1 + -8B];
+  return D.2975;
+}
+
+
+wat17 ()
+{
+  void * D.2977;
+
+  putchar (101);
+  wow_la.17_1 = wow_la;
+  D.2977 = MEM[(void * *)wow_la.17_1 + -192B];
+  return D.2977;
+}
+
+
+wat18 ()
+{
+  void * D.2979;
+
+  putchar (105);
+  wow_la.18_1 = wow_la;
+  D.2979 = MEM[(void * *)wow_la.18_1 + -200B];
+  return D.2979;
+}
+
+
+wat19 ()
+{
+  void * D.2981;
+
+  putchar (112);
+  wow_la.19_1 = wow_la;
+  D.2981 = MEM[(void * *)wow_la.19_1 + -152B];
+  return D.2981;
+}
+
+
+wat20 ()
+{
+  void * D.2983;
+
+  putchar (111);
+  wow_la.20_1 = wow_la;
+  D.2983 = MEM[(void * *)wow_la.20_1 + -176B];
+  return D.2983;
+}
+
+
+wat21 ()
+{
+  void * D.2985;
+
+  putchar (125);
+  wow_la.21_1 = wow_la;
+  D.2985 = MEM[(void * *)wow_la.21_1 + -40B];
+  return D.2985;
+}
+
+
+wat22 ()
+{
+  void * D.2987;
+
+  putchar (123);
+  wow_la.22_1 = wow_la;
+  D.2987 = MEM[(void * *)wow_la.22_1 + -80B];
+  return D.2987;
+}
+
+
+wat23 ()
+{
+  void * D.2989;
+
+  putchar (97);
+  wow_la.23_1 = wow_la;
+  D.2989 = MEM[(void * *)wow_la.23_1 + -72B];
+  return D.2989;
+}
+
+
+wat24 ()
+{
+  void * D.2991;
+
+  putchar (99);
+  wow_la.24_1 = wow_la;
+  D.2991 = MEM[(void * *)wow_la.24_1 + -136B];
+  return D.2991;
+}
+
+
+wat25 ()
+{
+  void * D.2993;
+
+  putchar (99);
+  wow_la.25_1 = wow_la;
+  D.2993 = MEM[(void * *)wow_la.25_1 + -48B];
+  return D.2993;
+}
+
+
+main ()
+{
+  void * beab2edb5fd1f1deee0ca6419ca2e8d2;
+  void * f92be48cfa44ab468cb386b86167c66b;
+
+  wow_la.26_1 = wow_la;
+  _2 = wow_la.26_1 + 18446744073709551408;
+  *_2 = wat0;
+  wow_la.27_3 = wow_la;
+  _4 = wow_la.27_3 + 18446744073709551416;
+  *_4 = wat1;
+  wow_la.28_5 = wow_la;
+  _6 = wow_la.28_5 + 18446744073709551424;
+  *_6 = wat2;
+  wow_la.29_7 = wow_la;
+  _8 = wow_la.29_7 + 18446744073709551432;
+  *_8 = wat3;
+  wow_la.30_9 = wow_la;
+  _10 = wow_la.30_9 + 18446744073709551440;
+  *_10 = wat4;
+  wow_la.31_11 = wow_la;
+  _12 = wow_la.31_11 + 18446744073709551448;
+  *_12 = wat5;
+  wow_la.32_13 = wow_la;
+  _14 = wow_la.32_13 + 18446744073709551456;
+  *_14 = wat6;
+  wow_la.33_15 = wow_la;
+  _16 = wow_la.33_15 + 18446744073709551464;
+  *_16 = wat7;
+  wow_la.34_17 = wow_la;
+  _18 = wow_la.34_17 + 18446744073709551472;
+  *_18 = wat8;
+  wow_la.35_19 = wow_la;
+  _20 = wow_la.35_19 + 18446744073709551480;
+  *_20 = wat9;
+  wow_la.36_21 = wow_la;
+  _22 = wow_la.36_21 + 18446744073709551488;
+  *_22 = wat10;
+  wow_la.37_23 = wow_la;
+  _24 = wow_la.37_23 + 18446744073709551496;
+  *_24 = wat11;
+  wow_la.38_25 = wow_la;
+  _26 = wow_la.38_25 + 18446744073709551504;
+  *_26 = wat12;
+  wow_la.39_27 = wow_la;
+  _28 = wow_la.39_27 + 18446744073709551512;
+  *_28 = wat13;
+  wow_la.40_29 = wow_la;
+  _30 = wow_la.40_29 + 18446744073709551520;
+  *_30 = wat14;
+  wow_la.41_31 = wow_la;
+  _32 = wow_la.41_31 + 18446744073709551528;
+  *_32 = wat15;
+  wow_la.42_33 = wow_la;
+  _34 = wow_la.42_33 + 18446744073709551536;
+  *_34 = wat16;
+  wow_la.43_35 = wow_la;
+  _36 = wow_la.43_35 + 18446744073709551544;
+  *_36 = wat17;
+  wow_la.44_37 = wow_la;
+  _38 = wow_la.44_37 + 18446744073709551552;
+  *_38 = wat18;
+  wow_la.45_39 = wow_la;
+  _40 = wow_la.45_39 + 18446744073709551560;
+  *_40 = wat19;
+  wow_la.46_41 = wow_la;
+  _42 = wow_la.46_41 + 18446744073709551568;
+  *_42 = wat20;
+  wow_la.47_43 = wow_la;
+  _44 = wow_la.47_43 + 18446744073709551576;
+  *_44 = wat21;
+  wow_la.48_45 = wow_la;
+  _46 = wow_la.48_45 + 18446744073709551584;
+  *_46 = wat22;
+  wow_la.49_47 = wow_la;
+  _48 = wow_la.49_47 + 18446744073709551592;
+  *_48 = wat23;
+  wow_la.50_49 = wow_la;
+  _50 = wow_la.50_49 + 18446744073709551600;
+  *_50 = wat24;
+  wow_la.51_51 = wow_la;
+  _52 = wow_la.51_51 + 18446744073709551608;
+  *_52 = wat25;
+  beab2edb5fd1f1deee0ca6419ca2e8d2 = wat3;
+  f92be48cfa44ab468cb386b86167c66b = wat12;
+  goto <D.2941>;
+  <D.2940>:
+  f92be48cfa44ab468cb386b86167c66b.52_53 = (void * (*<T561>) (void)) f92be48cfa44ab468cb386b86167c66b;
+  f92be48cfa44ab468cb386b86167c66b = f92be48cfa44ab468cb386b86167c66b.52_53 ();
+  if (f92be48cfa44ab468cb386b86167c66b == beab2edb5fd1f1deee0ca6419ca2e8d2) goto <D.2995>; else goto <D.2996>;
+  <D.2995>:
+  goto <D.2939>;
+  <D.2996>:
+  beab2edb5fd1f1deee0ca6419ca2e8d2 = f92be48cfa44ab468cb386b86167c66b;
+  <D.2941>:
+  if (beab2edb5fd1f1deee0ca6419ca2e8d2 != 0B) goto <D.2940>; else goto <D.2939>;
+  <D.2939>:
+  putchar (10);
+}
+
+

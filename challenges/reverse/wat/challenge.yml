@@ -1,0 +1,27 @@
+name: "wat"
+author: "Nicolas Hurtubise"
+description: |
+  Here are the first lines of `wat.c`
+
+  ```c
+  #include <stdlib.h>
+  #include <stdio.h>
+  void* waaaaaaaat[26];
+  void** wow_la = waaaaaaaat + 26;
+  void* wat0();
+  void* wat1();
+  void* wat2();
+  void* wat3();
+  ```
+
+  I unfortunately lost the rest... Although maybe you can make sense
+  of my compiler's intermediate representation?
+
+flags:
+    - FLAG{Scott Michael Gimple}
+
+tags:
+    - reverse
+
+files:
+    - wat.c.005t.gimple
