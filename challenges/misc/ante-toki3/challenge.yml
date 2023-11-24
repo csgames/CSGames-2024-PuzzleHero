@@ -1,0 +1,24 @@
+name: "ante toki nanpa tu wan"
+author: "Nicolas Hurtubise"
+description: |
+  utala musi nanpa tu wan
+  =======================
+
+  toki pona li lili mute a li sama ni tawa mi: toki ilo pi nasin lili lili. toki ilo ni la, sina pana e wile sina kepeken nimi pi sitelen wan. mute nimi li lili, li luka tu wan. nimi li ni:
+
+  - o pana wan. nimi ni li sama sitelen pona pi nimi "en".
+  - o weka wan. nimi ni li sama sitelen pona pi nimi "sama", taso palisa lili li wan.
+  - o tawa sinpin. nimi ni li sama sitelen pona pi nimi "li"
+  - o tawa monsi. nimi ni li sama sitelen pona pi nimi sama kin, taso sina lukin e ona lon supa sama. supa sama li ni: sina lukin e ni la, sina lukin e sina, e ijo pi monsi sina. jan li pona e lukin ona la, supa sama li pona tawa ona.
+  - o open sike. sitelen la, nimi ni li sama poka pi leko lili.
+  - o pini sike. sama nimi "o open sike" la, ona li poka pi leko lili, li poka ante.
+  - o sitelen e nimi wan. nimi ni li kepeken sitelen pi sike lili. toki jan mute la, sitelen ni li toki e ni: toki li pini.
+  - o kute e nimi wan. sitelen ona li sama mun lili, li lon toki Kanse li lon toki Inli li lon toki mute a!
+
+  o toki e ni: nimi pi toki ilo ni li seme? o pana e nimi wan. o kepeken nasin pi pana toki.
+
+flags:
+    - len{brainfuck}
+
+tags:
+    - toki

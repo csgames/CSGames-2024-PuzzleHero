@@ -1,0 +1,23 @@
+name: "ante toki nanpa tu"
+author: "Nicolas Hurtubise"
+description: |
+  utala musi nanpa tu
+  ===================
+
+  mi alasa e nasin pali pi ilo sona. nasin ni li tawa ni: pali sina li pini kepeken tenpo lili lili!
+
+  nasin ni la, jan li wile e ni: ilo sona li pali kepeken nanpa mute kepeken pali wan.
+
+  ilo sona mute li jo e pilin mute, li ken pali e ijo mute lon tenpo wan. nasin ni la, pilin wan pi ilo sona li pali e ni. pilin ale li ken pali e ni. taso ilo sona li jo e pilin wan taso la, nasin li awen ken.
+
+  ken la, nimi pilin pi toki mi li ike lili... ken la, mi o toki e ni: lawa wan pi ilo sona li pali e ni.
+
+  toki Inli la, nimi ona li kepeken sitelen tu tu pi toki Lasina. ni li sitelen nanpa wan pi nimi tu tu.
+
+  nasin ni li seme? o pana e nimi wan. o kepeken nasin pi pana toki.
+
+flags:
+    - len{simd}
+
+tags:
+    - toki
