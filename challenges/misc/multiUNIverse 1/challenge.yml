@@ -1,0 +1,15 @@
+name: "MultiUNIverse"
+author: "Constance - Otaphoque"
+description: |
+  The Organizing Committee this year is very diverse! Can you find all the universities reprenseted?
+
+  Sort the unis by decreasing number of vowels in the OFFICIAL name.
+  If unis have the same number of vowels, sort them in increasing order of age.
+
+  Flag format: flag{OfficialUniName1-OfficialUniName1-...}
+
+flags:
+    - flag{EcoleDeTechnologieSupérieure-UniversitéDuQuébecAMontréal-UniversitéDeSherbrooke-PolytechniqueMontréal-ConcordiaUniversity}
+
+tags:
+    - multiUNIverse
