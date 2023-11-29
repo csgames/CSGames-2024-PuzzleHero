@@ -6,10 +6,11 @@ description: |
   Sort the unis by decreasing number of vowels in the OFFICIAL name.
   If unis have the same number of vowels, sort them in increasing order of age.
 
-  Flag format: flag{OfficialUniName1-OfficialUniName1-...}
+  Flag format: flag{officialuniname1-officialuniname1-...} (all lowercase and without accents)
+  
 
 flags:
-    - flag{EcoleDeTechnologieSupérieure-UniversitéDuQuébecAMontréal-UniversitéDeSherbrooke-PolytechniqueMontréal-ConcordiaUniversity}
+    - flag{ecoledetechnologiesuperieure-universiteduquebecamontreal-universitedesherbrooke-polytechniquemontreal-concordiauniversity}
 
 tags:
     - multiuniverse
