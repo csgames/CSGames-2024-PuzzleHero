@@ -10,7 +10,7 @@ description: |
   
 
 flags:
-    - flag{ecoledetechnologiesuperieure-universiteduquebecamontreal-universitedesherbrooke-polytechniquemontreal-concordiauniversity}
+    - flag{ecoledetechnologiesuperieure-universiteduquebecamontreal-universitedesherbrooke-concordiauniversity-polytechniquemontreal}
 
 tags:
     - multiuniverse
