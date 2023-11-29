@@ -12,4 +12,4 @@ Official Uni Name | Number of vowels | Age
 
 ## Flag
 
-`flag{EcoleDeTechnologieSupérieure-UniversitéDuQuébecAMontréal-UniversitéDeSherbrooke-ConcordiaUniversity-PolytechniqueMontréal}`
+`flag{ecoledetechnologiesuperieure-universiteduquebecamontreal-universitedesherbrooke-polytechniquemontreal-concordiauniversity}`
