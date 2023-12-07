@@ -1,0 +1,16 @@
+name: "Jigsaw"
+author: "Nicolas Hurtubise"
+description: |
+  Oops! I forgot to remove the writeup from this challenge
+
+  Dang it, y'all gonna know how to solve it
+
+flags:
+    - FLAG-HERO-OF-THE-PUZZLE-OF-THE-PUZZLE-HERO
+
+tags:
+    - misc
+
+files:
+    - writeup.png
+    - puzzle.tar.gz
