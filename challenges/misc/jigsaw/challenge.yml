@@ -1,9 +1,11 @@
 name: "Jigsaw"
 author: "Nicolas Hurtubise"
 description: |
-  Oops! I forgot to remove the writeup from this challenge
+  From [Top 20 Rainy Day Activities](https://sunshinehouse.com/blog/top-20-rainy-day-activities/)
 
-  Dang it, y'all gonna know how to solve it
+  > 6. Puzzles
+  > They are inexpensive, educational, and will keep your kids
+  > occupied for hours!
 
 flags:
     - FLAG-HERO-OF-THE-PUZZLE-OF-THE-PUZZLE-HERO
@@ -12,5 +14,5 @@ tags:
     - misc
 
 files:
-    - writeup.png
+    - instructions.png
     - puzzle.tar.gz

@@ -2,10 +2,10 @@
 
 ## Write-up
 
-See `writeup.png` :-)
+See `instructions.png` and come up with an algorithm :-)
 
 The only caveat is that 700x700 patches might be too large for a naive
-O(N^2) algorithm
+O(N^2) algorithm.
 
 ## Flag
 
