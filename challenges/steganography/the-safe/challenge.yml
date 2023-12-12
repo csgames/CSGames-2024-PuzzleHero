@@ -1,0 +1,13 @@
+name: "The Safe"
+author: "H4dd0ck"
+description: |
+  Break into the safe and get the flag.
+
+flags:
+    - FLAG-4N_3@$Y_54F3_T0_BR34K_1NT0
+
+tags:
+    - steganography
+
+files:
+    - the-safe.png
