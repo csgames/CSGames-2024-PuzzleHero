@@ -1,0 +1,18 @@
+name: "Jigsaw"
+author: "Nicolas Hurtubise"
+description: |
+  From [Top 20 Rainy Day Activities](https://sunshinehouse.com/blog/top-20-rainy-day-activities/)
+
+  > 6. Puzzles
+  > They are inexpensive, educational, and will keep your kids
+  > occupied for hours!
+
+flags:
+    - FLAG-HERO-OF-THE-PUZZLE-OF-THE-PUZZLE-HERO
+
+tags:
+    - misc
+
+files:
+    - instructions.png
+    - puzzle.tar.gz
