@@ -2,10 +2,10 @@ name: "Say Cheese 1"
  author: "Otaphoque"
  description: |
    Stand tall and capture the spirit of adventure in front of the enchanted sign. 
-   Let the world see your quest unfold. Share the treasure by sending the proof on [say-cheese](https://discord.com/channels/1085360050958241852/1186486268599738480).
+   Let the world see your quest unfold. Share the proof by sending it on the [say-cheese](https://discord.com/channels/1085360050958241852/1186486268599738480).
 
    Tenez-vous droit et capturez l'esprit de l'aventure devant l'enseigne enchantée. 
-   Montrez au monde votre avancée dans la quête. Partagez le trésor en envoyant la preuve dans [say-cheese](https://discord.com/channels/1085360050958241852/1186486268599738480).
+   Montrez au monde votre avancée dans la quête, et partagez la preuve en l'envoyant dans le salon [say-cheese](https://discord.com/channels/1085360050958241852/1186486268599738480).
 
  flags:
      - flag{pitr6tck2a8vdwmzk4mt80wcmcvcyoq7}
