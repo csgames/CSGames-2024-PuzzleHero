@@ -2,7 +2,7 @@
 
 ## Write-up
 
-Une fois la photo envoyée, il faudra juste rentrer le flag
+Une fois la photo envoyée, il faudra juste rentrer le flag.
 
 ## Flag
 
