@@ -7,7 +7,7 @@ description: |
   Format : flag{number-written-in-lowercase-letters}
 
 flags:
-    - flag{four-thousand-thirty-nine}
+  - flag{four-thousand-thirty-nine}
 
 tags:
-    - saycheese
+  - saycheese
