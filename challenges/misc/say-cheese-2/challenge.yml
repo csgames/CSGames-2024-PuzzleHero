@@ -8,6 +8,8 @@ description: |
 
 flags:
   - flag{four-thousand-thirty-nine}
-
+files:
+    - saycheese2.jpeg
+    
 tags:
   - saycheese
