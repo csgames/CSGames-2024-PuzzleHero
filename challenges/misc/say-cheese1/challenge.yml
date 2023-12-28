@@ -7,8 +7,8 @@ description: |
    Tenez-vous droit et capturez l'esprit de l'aventure devant l'enseigne enchantée. 
    Montrez au monde votre avancée dans la quête, et partagez la preuve en l'envoyant dans le salon "[say-cheese](https://discord.com/channels/1085360050958241852/1186486268599738480)".
 
- flags:
-     - flag{pitr6tck2a8vdwmzk4mt80wcmcvcyoq7}
+flags:
+   - flag{pitr6tck2a8vdwmzk4mt80wcmcvcyoq7}
 
- tags:
-     - saycheese
+tags:
+   - saycheese
