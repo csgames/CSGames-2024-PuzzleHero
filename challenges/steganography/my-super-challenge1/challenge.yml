@@ -1,0 +1,17 @@
+name: "My Super Challenge 1"
+author: "Nicolas Hurtubise"
+description: |
+  Welcome to my super challenge!
+  ==============================
+
+  I'm not sure yet of what the challenge will be. I have had a few
+  ideas but I don't like any of them
+
+flags:
+    - flag{84742722baccc4b5a53062008914bf47}
+
+tags:
+    - steganography
+
+files:
+    - my-super-challenge.zip

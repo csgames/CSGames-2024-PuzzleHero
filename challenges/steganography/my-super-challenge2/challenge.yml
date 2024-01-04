@@ -1,0 +1,20 @@
+name: "My Super Challenge 2"
+author: "Nicolas Hurtubise"
+description: |
+  Welcome back to my super challenge!
+  ===================================
+
+  Ok so I'm still not sure of what I want to do as a challenge, but I
+  definitely want to have two flags in the same challenge so you can
+  spend more time than just looking for a single flag.
+
+  I think that's a neat way of preventing people from uselessly
+  downloading lots of files.
+
+  Let met know if you have any challenge idea!
+
+flags:
+    - flag-{b20f43d3e9fa753cec69dbd9ae8b0d93}
+
+tags:
+    - steganography
