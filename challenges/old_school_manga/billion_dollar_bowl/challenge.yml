@@ -1,0 +1,28 @@
+# Name of the challenge
+name: "Billion dollar bowl"
+
+# This key isn't optional, but you can set it to 'anonymous' if you want to stay anonymous.
+author: "Gabriel Trahan"    
+
+# Description of the challenge (Markdown supported).
+description: |
+  $$$$ Billion Dollars Bowl $$$$
+  ==============================
+
+  Come and try one! Made from thousands of ingredients frozen in ice for over 100 years. 
+  This broth will make you smile to the ears!
+
+flags:
+    # A regex case insensitive flag
+    - {
+        type: "regex",
+        content: "flag-century[_-]{1}soup",
+        data: "case_insensitive",
+    }
+
+# Tags are used to provide additional public tagging to a challenge
+# Accepts strings
+# !! YOU NEED AT LEAST ONE TAG !!
+tags:
+    - manga
+    - trivia
