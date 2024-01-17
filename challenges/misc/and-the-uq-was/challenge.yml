@@ -1,0 +1,16 @@
+name: "And the UQ was!"
+
+author: "Mehdi Benouhoud"
+
+description: |
+  This year's host institution, École de technologie supérieure, is part of the Université du Québec, a public university network in Quebec. 
+  This network was born thanks to a law tabled by a famous Quebec politician. 
+  Who? 
+  
+  Flag format: flag{LASTNAMEfirstname} (no accents and excluding hyphens)
+
+flags: 
+  - flag{BERTRANDjeanjacques}
+
+tags:
+  - trivia
