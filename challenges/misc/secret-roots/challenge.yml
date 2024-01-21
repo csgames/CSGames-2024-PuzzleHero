@@ -1,0 +1,41 @@
+# Name of the challenge
+name: "secret roots"
+
+# This key isn't optional, but you can set it to 'anonymous' if you want to stay anonymous.
+author: "Mik"    
+
+# Description of the challenge (Markdown supported).
+description: Arion Ethica, de la caste des Justes, sème une graine de résistance -
+    un arbuste numérique qui croît en sagesse et détient des tactiques de rébellion.
+
+    La graine, ou le "seed", est planté le 15 Mars 2437 à 08:02:39.
+    Selon Arion, la plante croît avec un mélange d'eau et d'un byte hasardeux.
+    Si on enregistre sa croissance chaque jour pendant 12 jours, une tactique est révélée.
+
+
+# Flags specify answers that your challenge use.
+# Accepts strings or dictionaries of CTFd API data
+# !! YOU NEED AT LEAST ONE FLAG !!
+flags:
+    - JusT K1LL !T
+
+
+# Tags are used to provide additional public tagging to a challenge
+# Accepts strings
+# !! YOU NEED AT LEAST ONE TAG !!
+tags:
+    - python
+
+
+# Provide paths to files from the same directory that this file is in
+# Accepts strings
+# !! REMOVE IF UNUSED !!
+files:
+    - arrosage.txt
+
+
+# Requirements are used to make a challenge require another challenge to be
+# solved before being available.
+# Accepts challenge names as strings
+# !! REMOVE IF UNUSED !!
+
