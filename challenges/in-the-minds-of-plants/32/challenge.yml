@@ -5,7 +5,7 @@ description: |
    Quelles molécules retrouve-t-on dans les zones de transition des racines ?
 
    Format
-   flag{****** and ******}
+   flag{... and ...}
 flags:
    - {
         type: "regex",
