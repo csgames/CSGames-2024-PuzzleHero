@@ -5,12 +5,13 @@ name: "secret roots"
 author: "Mik"    
 
 # Description of the challenge (Markdown supported).
-description: Arion Ethica, de la caste des Justes, sème une graine de résistance -
-    un arbuste numérique qui croît en sagesse et détient des tactiques de rébellion.
+description: 
+    Arion Ethica, from the caste of the Just, plants a seed of resistance - a digital shrub that grows in wisdom and holds tactics of rebellion.
 
-    La graine, ou le "seed", est planté le 15 Mars 2437 à 08:02:39.
-    Selon Arion, la plante croît avec un mélange d'eau et d'un byte hasardeux.
-    Si on enregistre sa croissance chaque jour pendant 12 jours, une tactique est révélée.
+    The seed is planted on March 15, 2437, at 08:02:39.
+    According to Arion, the plant grows with a mixture of water and a random byte.
+    A certain Boolean operation allows for these ingredients to be mixed well.
+    If its growth is recorded each day for 12 days, a tactic is revealed.
 
 
 # Flags specify answers that your challenge use.
