@@ -1,0 +1,14 @@
+name: "In the minds of plants 12"
+author: "Otaphoque"
+description: |
+
+   What's written on the very first sign that we see on the screen?
+   Qu’affiche le premier panneau que l’on voit à l’écran ?
+
+   Format
+   flag{Words} (character for character)
+flags:
+   - flag{FireWorks Dept}
+
+tags:
+   - documentaire

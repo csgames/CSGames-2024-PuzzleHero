@@ -1,0 +1,14 @@
+name: "In the minds of plants 22.1"
+author: "Otaphoque"
+description: |
+
+   What plant was the subject of an experiment and scanned at a rate of 250000 tiems per second?
+   Quelle plante a été l'objet d'une expérience et scannée à une fréquence de 250000 fois par seconds ?
+
+   Format
+   flag{***** ********}
+flags:
+   - flag{Venus Flytrap}
+
+tags:
+   - documentaire

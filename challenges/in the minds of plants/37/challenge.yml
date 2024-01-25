@@ -1,0 +1,14 @@
+name: "In the minds of plants 37"
+author: "Otaphoque"
+description: |
+
+   How many carnivorous plants exist (approximately)?
+   Combien de plantes carnivores existent (approximativement) ?
+
+   Format
+   flag{number}
+flags:
+   - flag{six hundred fifty}
+
+tags:
+   - documentaire

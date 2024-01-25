@@ -1,0 +1,14 @@
+name: "In the minds of plants 11"
+author: "Otaphoque"
+description: |
+
+   How many genes does a grain of rice have?
+   Combien de gène un grain de riz a-t-il ?
+
+   Format
+   flag{#} (1 or more digits)
+flags:
+   - flag{50000}
+
+tags:
+   - documentaire

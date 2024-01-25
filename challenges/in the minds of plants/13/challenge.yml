@@ -1,0 +1,14 @@
+name: "In the minds of plants 13"
+author: "Otaphoque"
+description: |
+
+   Where do the first studied animals live?
+   Où les premiers animaux étudiés habitent-ils ?
+
+   Format
+   flag{******* ********}
+flags:
+   - flag{Limpopo Savannah}
+
+tags:
+   - documentaire
