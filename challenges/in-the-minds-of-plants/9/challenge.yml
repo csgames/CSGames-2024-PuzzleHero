@@ -1,0 +1,13 @@
+name: "In the minds of plants 9"
+author: "Otaphoque"
+description: |
+   What family does the animal that we see through spy glasses belong to?
+   A quelle famille appartient l'animal que nous apercevons à travers une paire de jumelles ?
+
+   Format
+   flag{Name}
+flags:
+   - flag{Hippopotamidae}
+tags:
+   - documentaire
+   - documentary

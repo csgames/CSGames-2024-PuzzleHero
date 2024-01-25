@@ -1,0 +1,13 @@
+name: "In the minds of plants 1.1"
+author: "Otaphoque"
+description: |
+   When did the symposium take place?
+   Quand le symposium a-t-il eu lieu ?
+
+   Format
+   flag{DD/MM/YYYY - DD/MM/YYYY}
+flags:
+   - flag{14/05/2007 - 18/05/2007}
+tags:
+   - documentaire
+   - documentary

@@ -1,0 +1,13 @@
+name: "In the minds of plants 24"
+author: "Otaphoque"
+description: |
+   What does the blue color represent in the presentation during the symposium?
+   Que représente la couleur bleue durant la présentation du symposium ?
+
+   Format
+   flag{**** ** ********** ** ******* ********}
+flags:
+   - flag{will be recognized by genuine receptor}
+tags:
+   - documentaire
+   - documentary

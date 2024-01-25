@@ -1,0 +1,13 @@
+name: "In the minds of plants 1.2"
+author: "Otaphoque"
+description: |
+   When and where did the last symposium of this type take place?
+   Où et quand le dernier symposium de ce type a-t-il eu lieu ?
+
+   Format
+   flag{DD/MM/YYYY - DD/MM/YYYY, City, Country}
+flags:
+   - flag{25/05/2009 - 29/05/2009, Florence, Italy}
+tags:
+   - documentaire
+   - documentary

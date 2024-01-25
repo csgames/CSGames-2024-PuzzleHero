@@ -1,0 +1,13 @@
+name: "In the minds of plants 7"
+author: "Otaphoque"
+description: |
+   Where was the colleague who told Francis Hallé to not drop the idea that advanced organisms have more genes born?
+   Où est né le collègue de Francis Hallé qui lui a dit de ne pas abandonner l'idée que plus les organismes sont avancés, plus ils ont de gènes ?
+
+   Format
+   flag{City Name}
+flags:
+   - flag{Le Petit-Pressigny}
+tags:
+   - documentaire
+   - documentary

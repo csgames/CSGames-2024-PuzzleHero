@@ -1,0 +1,13 @@
+name: "In the minds of plants 15"
+author: "Otaphoque"
+description: |
+   What is the brand of the second car that we see?
+   Quelle est la marque de la deuxième voiture que nous voyons ?
+
+   Format
+   flag{Name}
+flags:
+   - flag{Toyota}
+tags:
+   - documentaire
+   - documentary

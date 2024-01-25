@@ -1,0 +1,13 @@
+name: "In the minds of plants 6"
+author: "Otaphoque"
+description: |
+   What does IZMB stand for (as presented in the documentary)?
+   Que veut dire le sigle IZMB (présenté exactement comme dans le documentaire) ?
+
+   Format
+   flag{******** *** ********* * ********** ****}
+flags:
+   - flag{Institut für Zelluläre & Molekulare Bonn}
+tags:
+   - documentaire
+   - documentary

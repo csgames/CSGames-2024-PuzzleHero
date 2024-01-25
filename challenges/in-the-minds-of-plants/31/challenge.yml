@@ -1,0 +1,13 @@
+name: "In the minds of plants 31"
+author: "Otaphoque"
+description: |
+   How is the Kalahari Oasis Lodge?
+   Comment est la Kalahari Oasis Lodge ?
+
+   Format
+   flag{*********}
+flags:
+   - flag{luxurious}
+tags:
+   - documentaire
+   - documentary

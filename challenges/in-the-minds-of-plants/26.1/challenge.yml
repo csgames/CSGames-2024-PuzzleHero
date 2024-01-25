@@ -1,0 +1,13 @@
+name: "In the minds of plants 26.1"
+author: "Otaphoque"
+description: |
+   What are the names of the musics for plants?
+   Quels sont les noms des musiques pour plantes ? 
+
+   Format
+   flag{******** and **********}
+flags:
+   - flag{Effluves and Luxuriance}
+tags:
+   - documentaire
+   - documentary

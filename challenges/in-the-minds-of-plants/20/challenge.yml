@@ -1,0 +1,13 @@
+name: "In the minds of plants 20"
+author: "Otaphoque"
+description: |
+   What type of communication is the proliferation of tannin?
+   De quel type de communication est la prolifération du tanin ?
+
+   Format
+   flag{Type}
+flags:
+   - flag{Chemical}
+tags:
+   - documentaire
+   - documentary

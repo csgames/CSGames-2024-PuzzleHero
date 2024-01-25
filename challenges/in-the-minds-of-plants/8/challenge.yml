@@ -1,0 +1,13 @@
+name: "In the minds of plants 8"
+author: "Otaphoque"
+description: |
+   Where can you not find carnivorous plants?
+   Où ne pouvons-nous pas trouver de plantes carnivores ?
+
+   Format
+   flag{***** and *******}
+flags:
+   - flag{poles and deserts}
+tags:
+   - documentaire
+   - documentary

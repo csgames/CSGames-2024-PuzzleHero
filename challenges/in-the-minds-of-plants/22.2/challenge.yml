@@ -1,0 +1,13 @@
+name: "In the minds of plants 22.2"
+author: "Otaphoque"
+description: |
+   What was the stimulating substance used for that same experiment?
+   De quelle substance était le stimulant lors de cette même expérience ?
+
+   Format
+   flag{* ***** ** *******}
+flags:
+   - flag{a piece of gelatin}
+tags:
+   - documentaire
+   - documentary

@@ -1,0 +1,13 @@
+name: "In the minds of plants 17"
+author: "Otaphoque"
+description: |
+   When was born the Indian bio-physist mentionned?
+   Quand est né le bio-physicien indien mentionné ?
+
+   Format
+   flag{DD/MM/YYYY}
+flags:
+   - flag{30/11/1858}
+tags:
+   - documentaire
+   - documentary

@@ -1,0 +1,13 @@
+name: "In the minds of plants 38"
+author: "Otaphoque"
+description: |
+   What is the substance some ants release to alert other ants from danger?
+   Quelle est la substance relâchée par les fourmis pour alerter leurs congénères d'un danger ?
+
+   Format
+   flag{****** ****}
+flags:
+   - flag{formic acid}
+tags:
+   - documentaire
+   - documentary

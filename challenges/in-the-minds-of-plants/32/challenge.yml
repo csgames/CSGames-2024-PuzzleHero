@@ -1,0 +1,13 @@
+name: "In the minds of plants 32"
+author: "Otaphoque"
+description: |
+   What molecules are found in the transition zones of roots?
+   Quelles molécules retrouve-t-on dans les zones de transition des racines ?
+
+   Format
+   flag{****** and *******}
+flags:
+   - flag{lectin and myosine}
+tags:
+   - documentaire
+   - documentary

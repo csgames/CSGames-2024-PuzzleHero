@@ -1,0 +1,13 @@
+name: "In the minds of plants 30"
+author: "Otaphoque"
+description: |
+   What are the three plants presented by the second biochemist we meet?
+   Quelles sont les trois plantes présentées par le deuxième biochimiste que l'on voit ?
+
+   Format
+   flag{******* ***** ******}
+flags:
+   - flag{Albizia Senna Cassia}
+tags:
+   - documentaire
+   - documentary
