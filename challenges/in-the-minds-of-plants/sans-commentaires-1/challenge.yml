@@ -1,10 +1,9 @@
 name: "Sans commentaires 1"
 author: "Otaphoque"
 description: |
-   Il s'agit de tout regarder...
    It's about looking at everything...
+   Il s'agit de tout regarder...
 flags:
    - flag{tl1e7riXuH8phuCR3chi}
 tags:
-   - documentaire
    - documentary

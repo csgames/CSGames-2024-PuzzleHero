@@ -7,7 +7,10 @@ description: |
    Format
    flag{Name}
 flags:
-   - flag{Darlingtonia}
+   - {
+        type: "static",
+        content: "flag{Darlingtonia}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

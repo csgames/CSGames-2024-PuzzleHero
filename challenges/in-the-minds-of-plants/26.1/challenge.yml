@@ -7,7 +7,10 @@ description: |
    Format
    flag{******** and **********}
 flags:
-   - flag{Effluves and Luxuriance}
+   - {
+        type: "static",
+        content: "flag{Effluves and Luxuriance}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

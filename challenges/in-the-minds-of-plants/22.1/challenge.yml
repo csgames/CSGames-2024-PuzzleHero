@@ -5,9 +5,12 @@ description: |
    Quelle plante a été l'objet d'une expérience et scannée à une fréquence de 250000 fois par seconde ?
 
    Format
-   flag{***** ********}
+   flag{***** ********} (English name)
 flags:
-   - flag{Venus Flytrap}
+   - {
+        type: "static",
+        content: "flag{venus flytrap}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

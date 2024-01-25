@@ -7,7 +7,10 @@ description: |
    Format
    flag{#.#.#.# host}
 flags:
-   - flag{129.232.138.235 Xneelo}
+   - {
+        type: "static",
+        content: "flag{129.232.138.235 Xneelo}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

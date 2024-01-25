@@ -7,7 +7,11 @@ description: |
    Format
    flag{Name Lastname}
 flags:
-   - flag{Roger Roger}
+   flags:
+   - {
+        type: "static",
+        content: "flag{Roger Roger}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

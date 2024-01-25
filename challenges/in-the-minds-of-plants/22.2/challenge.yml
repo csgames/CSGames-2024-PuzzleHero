@@ -7,7 +7,10 @@ description: |
    Format
    flag{* ***** ** *******}
 flags:
-   - flag{a piece of gelatin}
+   - {
+        type: "static",
+        content: "flag{a piece of gelatin}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

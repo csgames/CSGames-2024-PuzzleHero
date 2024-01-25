@@ -5,9 +5,12 @@ description: |
    Quelles molécules retrouve-t-on dans les zones de transition des racines ?
 
    Format
-   flag{****** and *******}
+   flag{****** and ******}
 flags:
-   - flag{lectin and myosine}
+   - {
+        type: "regex",
+        content: "flag{lectine? and myosine?}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

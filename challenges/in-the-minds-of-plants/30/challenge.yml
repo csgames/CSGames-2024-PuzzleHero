@@ -5,9 +5,12 @@ description: |
    Quelles sont les trois plantes présentées par le deuxième biochimiste que l'on voit ?
 
    Format
-   flag{******* ***** ******}
+   flag{******* ***** ******} (in English)
 flags:
-   - flag{Albizia Senna Cassia}
+   - {
+        type: "static",
+        content: "flag{Albizia Senna Cassia}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

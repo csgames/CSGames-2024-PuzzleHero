@@ -2,7 +2,7 @@
 
  ## Write-up
 
-Timestamp (French) : 2:35
+Timestamp (English) : 2:35
 
  ## Flag
 

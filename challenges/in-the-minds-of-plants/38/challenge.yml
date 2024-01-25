@@ -7,7 +7,10 @@ description: |
    Format
    flag{****** ****}
 flags:
-   - flag{formic acid}
+   - {
+        type: "static",
+        content: "flag{(formic acid|acide formique)}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

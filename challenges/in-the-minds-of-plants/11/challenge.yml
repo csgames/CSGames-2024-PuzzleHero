@@ -7,7 +7,10 @@ description: |
    Format
    flag{number} (in letters, in English)
 flags:
-   - flag{fifty thousand}
+   - {
+        type: "regex",
+        content: "flag{(fifty thousand}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

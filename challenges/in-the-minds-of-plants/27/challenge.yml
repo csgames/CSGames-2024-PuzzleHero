@@ -7,6 +7,10 @@ description: |
    Format
    flag{********** ***}
 flags:
-   - flag{Sozialraum 520}
+   - {
+        type: "static",
+        content: "flag{Sozialraum 520}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
+   - documentary

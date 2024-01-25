@@ -7,7 +7,10 @@ description: |
    Format
    flag{Name}
 flags:
-   - flag{Toyota}
+   - {
+        type: "static",
+        content: "flag{Toyota}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

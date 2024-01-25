@@ -1,13 +1,16 @@
 name: "In the minds of plants 10"
 author: "Otaphoque"
 description: |
-   In what city does Inoru do his research?
+   In what university does Inoru do his research?
    Dans quelle université Inoru fait-il ses recherches ?
 
    Format
    flag{Name}
 flags:
-   - flag{Tohoku}
+   - {
+        type: "regex",
+        content: "flag{(Tohoku University|Université de Tohoku|Tohoku)}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

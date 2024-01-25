@@ -7,7 +7,10 @@ description: |
    Format
    flag{DD/MM/YYYY - DD/MM/YYYY, City, Country}
 flags:
-   - flag{25/05/2009 - 29/05/2009, Florence, Italy}
+   - {
+      type: "regex",
+      content: "flag{25\/05\/2009 - 29\/05\/2009, Florence, (Italie|Italy)}",
+      data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

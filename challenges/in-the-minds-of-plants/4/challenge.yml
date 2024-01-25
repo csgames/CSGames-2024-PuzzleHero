@@ -7,7 +7,10 @@ description: |
    Format
    flag{Brand}
 flags:
-   - flag{Andor}
+   - {
+        type: "static",
+        content: "flag{Andor}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

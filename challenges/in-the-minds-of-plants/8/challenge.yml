@@ -7,7 +7,10 @@ description: |
    Format
    flag{***** and *******}
 flags:
-   - flag{poles and deserts}
+   - {
+        type: "static",
+        content: "flag{poles and deserts}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary

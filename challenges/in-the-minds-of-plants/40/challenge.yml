@@ -7,7 +7,11 @@ description: |
    Format
    flag{Name Lastname}
 flags:
+   - {
+        type: "static",
+        content: "flag{Franti(s|š)ek Balu(s|š)ka}",
+        data: "case_insensitive",
+   }
    - flag{Frantisek Baluska}
 tags:
-   - documentaire
    - documentary

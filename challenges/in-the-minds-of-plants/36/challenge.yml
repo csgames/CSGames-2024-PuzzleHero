@@ -7,7 +7,10 @@ description: |
    Format
    flag{number} (in letters, in English)
 flags:
-   - flag{seventeen}
+   - {
+        type: "static",
+        content: "flag{seventeen}",
+        data: "case_insensitive",
+   }
 tags:
-   - documentaire
    - documentary
