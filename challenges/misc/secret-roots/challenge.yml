@@ -18,7 +18,7 @@ description:
 # Accepts strings or dictionaries of CTFd API data
 # !! YOU NEED AT LEAST ONE FLAG !!
 flags:
-    - JusT K1LL !T
+    - flag{JusT K1LL !T}
 
 
 # Tags are used to provide additional public tagging to a challenge
