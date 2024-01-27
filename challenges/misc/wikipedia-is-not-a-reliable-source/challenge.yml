@@ -2,12 +2,13 @@ name: "Wikipedia is not a reliable source"
 
 author: "Mehdi Benouhoud"    
 
-description: "FR: Wikipedia n'est pas une source fiable."
+description: |
+    FR: Wikipedia n'est pas une source fiable.
+    
+    Flag format: FLAG-*
 
 flags:
     - FLAG-wikipediaMasterRace9000
 
 tags:
     - misc
-
-
