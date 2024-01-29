@@ -16,6 +16,7 @@ description:
     Format
     flag{...}
 
+
 # Flags specify answers that your challenge use.
 # Accepts strings or dictionaries of CTFd API data
 # !! YOU NEED AT LEAST ONE FLAG !!
