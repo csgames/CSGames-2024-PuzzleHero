@@ -1,5 +1,5 @@
 # Challenge name
-Eye of the storm
+The Red Glow
 
 ## Write-up
 
