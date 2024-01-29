@@ -1,0 +1,38 @@
+# Name of the challenge
+name: "The Red Glow"
+
+# This key isn't optional, but you can set it to 'anonymous' if you want to stay anonymous.
+author: "Mik"    
+
+# Description of the challenge (Markdown supported).
+description: It's glowing red with a piercing look.
+    Format
+    flag{...}
+
+# Flags specify answers that your challenge use.
+# Accepts strings or dictionaries of CTFd API data
+# !! YOU NEED AT LEAST ONE FLAG !!
+flags:
+    - flag{ZmxhZ3toaWRkZW5fbWVzc2FnZX0}
+
+
+# Tags are used to provide additional public tagging to a challenge
+# Accepts strings
+# !! YOU NEED AT LEAST ONE TAG !!
+tags:
+    - svg
+    - inspection
+
+
+# Provide paths to files from the same directory that this file is in
+# Accepts strings
+# !! REMOVE IF UNUSED !!
+files:
+    - image.svg
+
+
+# Requirements are used to make a challenge require another challenge to be
+# solved before being available.
+# Accepts challenge names as strings
+# !! REMOVE IF UNUSED !!
+
