@@ -37,7 +37,7 @@ tags:
 # Accepts strings
 # !! REMOVE IF UNUSED !!
 files:
-    - arrosage.txt
+    - water.txt
 
 
 # Requirements are used to make a challenge require another challenge to be
