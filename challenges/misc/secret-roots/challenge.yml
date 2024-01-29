@@ -12,7 +12,9 @@ description:
     According to Arion, the plant grows with a mixture of water and a random byte.
     A certain Boolean operation allows for these ingredients to be mixed well.
     If its growth is recorded each day for 12 days, a tactic is revealed.
-
+    
+    Format
+    flag{...}
 
 # Flags specify answers that your challenge use.
 # Accepts strings or dictionaries of CTFd API data
@@ -26,6 +28,8 @@ flags:
 # !! YOU NEED AT LEAST ONE TAG !!
 tags:
     - python
+    - random
+    
 
 
 # Provide paths to files from the same directory that this file is in
