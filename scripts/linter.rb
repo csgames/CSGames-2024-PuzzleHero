@@ -9,7 +9,7 @@ $challenges_name = []
 
 Find.find('./challenges') do |path|
   next if File.directory?(path)
-  next unless path.end_with?('.yml')
+  next unless File.basename(path) == 'challenge.yml'
 
   begin
     challenge = YAML.load_file(path)
@@ -509,7 +509,7 @@ is_valid = true
 
 Find.find('./challenges') do |path|
   next if File.directory?(path)
-  next unless path.end_with?('.yml')
+  next unless File.basename(path) == 'challenge.yml'
 
   begin
     challenge = YAML.load_file(path)
