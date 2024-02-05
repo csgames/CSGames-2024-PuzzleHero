@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  rock-paper-scissors:
+    build:
+      context: ./env
+    container_name: rock-paper-scissors
+    restart: unless-stopped
+    ports:
+      - "5000:1337"

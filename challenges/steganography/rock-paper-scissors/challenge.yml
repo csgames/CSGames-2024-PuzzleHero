@@ -1,0 +1,15 @@
+name: "rock paper scissors"
+
+author: "Capucinoxx"    
+
+description: |
+    This AI is too strong! Do you think you could help me defeat it?
+
+flags:
+    - flag{h1dd3n_m3ss4g3_1s_b3tt3r_th@n_r0ck_p@p3r_sc1ss0rs}
+
+files:
+  - rps.png
+
+tags:
+    - game
