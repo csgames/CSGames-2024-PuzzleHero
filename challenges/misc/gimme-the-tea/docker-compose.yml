@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  gimme-the-tea:
+    build:
+      context: ./env
+    container_name: gimme-the-tea
+    restart: unless-stopped
+    ports:
+      - "5000:1337"

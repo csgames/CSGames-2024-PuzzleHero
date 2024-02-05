@@ -1,0 +1,16 @@
+name: "Gimme the tea"
+
+author: "Mehdi Benouhoud"    
+
+description: |
+    A strange scientist deigns to let you into his lair, where he is said to possess valuable information that could help you defeat the AI. 
+    In exchange for valuable knowledge, the scientist demands tea. Serve him a cup...
+
+    FR: Un scientifique étrange daigne vous laisser entrer dans son antre ou il possèderait de précieuses informations pouvant vous aider à vaincre l'IA. 
+    En échange du précieux savoir, le scientifique exige du thé. Servez-lui une tasse...
+
+flags:
+    - flag{Y0uS3rv3d!th4t5Bl00dyNiceInnit?}
+
+tags:
+    - misc
