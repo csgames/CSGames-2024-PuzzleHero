@@ -1,0 +1,17 @@
+name: "Tab supremacy"
+
+author: "Mehdi Benouhoud"    
+
+# Description of the challenge (Markdown supported).
+description: |
+    FR: Suprématie de la touche tabulation
+
+flags:
+    - flag{Em1li0IsRrighttab5-are-ind33dSuperiorTOSpaces}
+
+tags:
+    - steganography
+
+files:
+    - tab_supremacy.txt
+
