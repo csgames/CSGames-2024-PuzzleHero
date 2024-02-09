@@ -1,0 +1,14 @@
+name: "floating"
+author: "Capucinoxx"
+description: |
+  When a scholar speaks to a non-scholar. It's important to choose your words carefully.
+
+flags:
+    - flag{TrU5t_m3_1m_@n_3nG1n33r}
+
+tags:
+    - steganography
+
+files:
+    - message.txt
+
