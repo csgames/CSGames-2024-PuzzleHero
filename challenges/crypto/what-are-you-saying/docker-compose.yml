@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  what-are-you-saying:
+    build:
+      context: ./env
+    container_name: what-are-you-saying
+    restart: unless-stopped
+    ports:
+      - "5000:1337"
