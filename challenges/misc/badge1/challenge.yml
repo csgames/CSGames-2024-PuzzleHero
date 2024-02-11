@@ -1,0 +1,10 @@
+name: "Badge (1/3)"
+author: "H4dd0ck"
+description: |
+  Damn this badge looks so cool, I wonder if there's anything hidden in it.
+
+flags:
+    - flag{3nJ0y_y0ur_m3al_My_Fr13nd!}
+
+tags:
+    - misc
