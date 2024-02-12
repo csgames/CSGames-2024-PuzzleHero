@@ -1,0 +1,10 @@
+name: "Some cool garbage"
+author: "Nicolas Hurtubise"
+description: |
+  As an amateur hoarder, I have collected many things over the years, including this flag.
+
+flags:
+    - FLAG{4e57a63b0829ccfec385109a23d2f28d}
+
+tags:
+    - web
