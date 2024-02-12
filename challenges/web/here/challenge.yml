@@ -1,0 +1,10 @@
+name: "Here"
+author: "Nicolas Hurtubise"
+description: |
+  Here is the flag
+
+flags:
+    - FLAG{60bc331b5487b726}
+
+tags:
+    - web
