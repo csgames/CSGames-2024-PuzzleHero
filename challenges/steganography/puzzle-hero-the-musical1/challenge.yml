@@ -1,0 +1,15 @@
+name: "Puzzle Hero: The Musical 1"
+author: "Nicolas Hurtubise"
+description: |
+  This challenge should be fun!
+  Here is a tip for having more fun with it:
+  VHJ5IHRvIHBsYXkgdGhlIG5vdGVzIHVzaW5nIHRoaXM6IE1FUUdHMzNQTlFRSEEyTEJOWlhRPT09PQo=
+
+flags:
+    - flag{je.commence.la.guitare}
+
+tags:
+    - steganography
+
+files:
+    - partition.pdf

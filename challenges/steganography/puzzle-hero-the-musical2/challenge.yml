@@ -1,0 +1,16 @@
+name: "Puzzle Hero: The Musical 2"
+author: "Nicolas Hurtubise"
+description: |
+  Encore! Encore!
+
+flags:
+    - flag{JE_c0mm3nce.a.CoMM3NCER.LA.Guit4r3}
+
+tags:
+    - steganography
+
+files:
+    - standing-ovation.mp3
+
+requirements:
+    - "Puzzle Hero: The Musical 1"
