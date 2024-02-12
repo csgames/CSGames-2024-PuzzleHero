@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  some-cool-garbage:
+    build:
+      context: ./env
+    container_name: some-cool-garbage
+    restart: unless-stopped
+    ports:
+      - "5000:8000"
