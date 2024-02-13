@@ -1,0 +1,1 @@
+edit_flag[986] = function(f, g) { return [(f ^ 0x14b850a2), (g ^ 0x7fb3baa9)]}; finish();

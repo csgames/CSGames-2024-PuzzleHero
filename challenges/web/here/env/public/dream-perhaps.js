@@ -1,0 +1,1 @@
+edit_flag[404] = function(f, g) { return [(f ^ 0x6803f8b6), (g ^ 0x10a53cc3)]}; finish();
