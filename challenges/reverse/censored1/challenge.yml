@@ -1,0 +1,11 @@
+name: "Censored 1"
+author: "Nicolas Hurtubise"
+description: |
+  Netcat this next flag
+  Be careful, I don't think the plants want you to have it though!
+
+flags:
+    - FLAG{OISJDfoijoIwDjpOapOXKcnNKXPLAsfkMNWJjbdhYVBUyxcJKnlMePOIRFUGIshdJv}
+
+tags:
+    - reverse
