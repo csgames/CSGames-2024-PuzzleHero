@@ -1,0 +1,13 @@
+name: "Don't blink 2"
+author: "Nicolas Hurtubise"
+description: |
+  One more time
+
+flags:
+    - FLAG-{de-delicieux-restes-chinois-pour-le-diner-de-demain}
+
+tags:
+    - misc
+
+requirements:
+    - "Don't blink 1"

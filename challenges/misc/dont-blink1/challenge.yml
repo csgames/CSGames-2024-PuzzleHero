@@ -1,0 +1,10 @@
+name: "Don't blink 1"
+author: "Nicolas Hurtubise"
+description: |
+  Don't blink or you'll miss it!
+
+flags:
+    - FLAG-{l_element_de_fronton}
+
+tags:
+    - misc

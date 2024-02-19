@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  dont-blink1:
+    build:
+      context: ./env
+    container_name: dont-blink1
+    restart: unless-stopped
+    ports:
+      - "5000:80"
