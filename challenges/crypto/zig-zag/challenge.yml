@@ -1,0 +1,16 @@
+name: "zig zag"
+author: "Capucinoxx"
+description: |
+  I'm not sure what to make of this image ...
+  And this text, it's all gibberish ...
+  It's been zig-zagging in my head for hours!
+
+flags:
+  - flag{Z1gZag1nMyH3@d}
+
+tags:
+  - crypto
+
+files:
+  - key.png
+  - message.txt
