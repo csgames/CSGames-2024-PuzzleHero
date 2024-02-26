@@ -1,0 +1,15 @@
+name: "Tab Supremacy"
+
+author: "Mehdi Benouhoud"    
+
+description: |
+    FR: Suprématie des tabulations
+
+flags:
+    - flag{Em1li0IsRrighttab5-are-ind33dSuperiorTOSpaces}
+
+tags:
+    - steganography
+
+files:
+    - tab_supremacy.txt
