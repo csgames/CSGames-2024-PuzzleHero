@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  alt:
+    build:
+      context: ./env
+    container_name: alt
+    restart: unless-stopped
+    ports:
+      - "5000:80"

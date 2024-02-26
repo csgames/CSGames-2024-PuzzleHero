@@ -1,0 +1,10 @@
+name: "Alt"
+author: "Nicolas Hurtubise"
+description: |
+  In case of emergency, remember: Ctrl+Alt+Delete to open the task manager
+
+flags:
+    - FLAG-ILoveCSSSoMuch-IReallyReallyLikeToUseTheImportantKeywordEverywhereAndAlsoPutingTheZIndexAt99999999ItsJustSoConvenientAsALanguage
+
+tags:
+    - web
