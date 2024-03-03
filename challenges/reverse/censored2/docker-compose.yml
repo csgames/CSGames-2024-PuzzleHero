@@ -1,0 +1,11 @@
+version: '3.9'
+
+services:
+  censored2:
+    build:
+      context: ./env
+    hostname: censored2
+    container_name: censored2
+    restart: unless-stopped
+    ports:
+      - "5000:9090"
