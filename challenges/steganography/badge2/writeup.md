@@ -1,4 +1,4 @@
-# Badge (2/3)
+# Badge (2/2)
 
 ## Write-up
 

@@ -1,9 +1,9 @@
-# Badge (1/3)
+# Badge (1/2)
 
 ## Write-up
 
-On each persons badge there is a QR code. If you scan this QR code there is an id variable and a secret one.
-The id is different for everyone one but the secret is the same:
+On each persons badge there is a QR code. If you scan this QR code there is a tiny url that redirects to the csgames 2024 website. In this url there in an added get parameter called secret.
+Here is it's value:
 ```
 2a&oU9O^53?V3"E?UdC:5%6910RQJHF[KPG5;c84
 ```
