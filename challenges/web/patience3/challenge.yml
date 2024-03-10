@@ -1,0 +1,13 @@
+name: "Patience 3"
+author: "Nicolas Hurtubise"
+description: |
+  k e e p . . .  g o i n g . . .
+
+flags:
+    - flag{puzzle-heros-are-idle-games-now}
+
+requirements:
+    - "Patience 2"
+
+tags:
+    - web
