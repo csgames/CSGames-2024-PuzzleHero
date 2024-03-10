@@ -1,0 +1,36 @@
+body {
+	font-size: x-large;
+	background: blue;
+	text-align: center;
+    font-weight: bold;
+    color: #919000;
+}
+
+h1 {
+    font-size: 34px;
+}
+
+label {
+	color: red;
+    text-shadow: white 0px 0px 8px;
+	margin-top: 5px;
+	display: inline-block;
+}
+
+input, button {
+	font-size: x-large;
+	border: 2px dashed black;
+	background: yellow;
+	border-radius: 15px;
+	padding: 5px;
+	color: green;
+}
+
+button:hover {
+	background: beige;
+}
+
+button:active {
+	background: purple;
+}
+

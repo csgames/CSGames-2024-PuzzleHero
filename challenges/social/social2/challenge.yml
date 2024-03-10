@@ -1,0 +1,19 @@
+name: "Social (2)"
+author: "Nicolas Hurtubise and Alizée Gagnon"
+description: |
+  Hey, have you noticed that there are a lot of actual physical people
+  around you?
+
+  **Let's talk!**
+
+  Here is how the social challenge works: each university will recieve
+  a secret password in a private Discord channel. Just go to the
+  website and enter more than one valid password to get the flags. Any
+  two passwords will yield the first flag, any three will yield the
+  second flag, etc.
+
+flags:
+    - "FLAG{w0w_you_actually_talked_to_s0me0ne}"
+
+tags:
+    - social

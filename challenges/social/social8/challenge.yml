@@ -1,0 +1,15 @@
+name: "Social (8)"
+author: "Nicolas Hurtubise and Alizée Gagnon"
+description: |
+  If you missed it, see `Social (2)` for an explanation.
+
+  **Let's talk!**
+
+flags:
+    - "FLAG{I am cheesed to meet you}"
+
+requirements:
+    - "Social (7)"
+
+tags:
+    - social

@@ -1,0 +1,15 @@
+name: "Social (7)"
+author: "Nicolas Hurtubise and Alizée Gagnon"
+description: |
+  If you missed it, see `Social (2)` for an explanation.
+
+  **Let's talk!**
+
+flags:
+    - "FLAG{quick, check if any of you guys have the same birthday}"
+
+requirements:
+    - "Social (6)"
+
+tags:
+    - social
