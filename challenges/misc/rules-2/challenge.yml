@@ -1,0 +1,13 @@
+name: "rules 2"
+
+author: "Capucinoxx"    
+
+description: |
+  I had prepared my recipe so well! I took my word, divided it into equally sized parts, and when I arrived to serve it to the customer, I dropped them... 
+  So, I quickly put the pieces back on the plate, not necessarily in the right order.
+
+flags:
+    - flag{I-Love-rule5}
+
+tags:
+    - rules
