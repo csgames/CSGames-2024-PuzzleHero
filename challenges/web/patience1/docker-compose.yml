@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  patience-1:
+    build:
+      context: ./env
+    container_name: patience-1
+    restart: unless-stopped
+    ports:
+      - "5000:8000"
