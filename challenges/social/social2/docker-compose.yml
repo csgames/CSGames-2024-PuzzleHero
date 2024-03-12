@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  social:
+    build:
+      context: ./env
+    container_name: social
+    restart: unless-stopped
+    ports:
+      - "5000:80"

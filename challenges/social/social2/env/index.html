@@ -1,0 +1,166 @@
+<!doctype html>
+<html>
+    <head>
+        <title>SOCIAL</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="beautiful.css">
+        <script type="text/javascript" src="jquery-3.7.1.min.js"></script>
+        <script src="secrets.js"></script>
+        <script src="crypto-js.js"></script>
+    </head>
+    <body onload="random_align()">
+        <h1><marquee>Gimme that flag!</marquee></h1>
+
+        <div>
+            <label>
+                <span>McGill</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>Concordia</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>UQAC</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>ULaval</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>UdeM</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>Polytechnique</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>UQO</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>UQAM</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>Windsor</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>UOttawa</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>ETS</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <label>
+                <span>USherbrooke</span>
+                <input type="password" autocomplete="off" autofill="off" readonly onfocus="this.removeAttribute('readonly');" onblur="this.setAttribute('readonly', true);" />
+            </label>
+            <br>
+            <p>
+                <button onclick="getThatFlag()">
+                    Gimme!
+                </button>
+            </p>
+        </div>
+        <script>
+            // https://cryptojs.gitbook.io/docs/#hashing
+            var JsonFormatter = {
+                stringify: function(cipherParams) {
+                    // create json object with ciphertext
+                    var jsonObj = { ct: cipherParams.ciphertext.toString(CryptoJS.enc.Base64) };
+                    // optionally add iv or salt
+                    if (cipherParams.iv) {
+                        jsonObj.iv = cipherParams.iv.toString();
+                    }
+                    if (cipherParams.salt) {
+                        jsonObj.s = cipherParams.salt.toString();
+                    }
+                    // stringify json object
+                    return JSON.stringify(jsonObj);
+                },
+                parse: function(jsonStr) {
+                    // parse json string
+                    var jsonObj = JSON.parse(jsonStr);
+                    // extract ciphertext from json object, and create cipher params object
+                    var cipherParams = CryptoJS.lib.CipherParams.create({
+                        ciphertext: CryptoJS.enc.Base64.parse(jsonObj.ct)
+                    });
+                    // optionally extract iv or salt
+                    if (jsonObj.iv) {
+                        cipherParams.iv = CryptoJS.enc.Hex.parse(jsonObj.iv);
+                    }
+                    if (jsonObj.s) {
+                        cipherParams.salt = CryptoJS.enc.Hex.parse(jsonObj.s);
+                    }
+                    return cipherParams;
+                }
+            };
+            function decrypt(secret, key) {
+                try {
+                    let value = CryptoJS.AES.decrypt(secret, key, {
+                        format: JsonFormatter
+                    }).toString(CryptoJS.enc.Utf8);
+                    if(value.indexOf('FLAG{') !== 0) return "";
+                    return value;
+                } catch(e) {
+                    console.log(e);
+                    return "";
+                }
+            }
+
+            function combineKeys() {
+                let keys = [];
+                document.querySelectorAll('input').forEach((i) => { if(i) keys.push(i.value) });
+                return keys.sort().join('');
+            }
+
+            function getThatFlag() {
+                let key = combineKeys();
+                let found = false;
+                secrets.forEach((s) => {
+                    let m = decrypt(s, key);
+                    found = found | !!m;
+                    if(m) alert(m);
+                });
+                if(!found)
+                    alert('No flag found');
+            }
+
+            function random_align() {
+                let labels = $("label, p").toArray();
+                for (let i = 0; i < labels.length ; ++i) {
+                    $(labels[i]).css("padding-left", Math.floor(Math.random() * 200));
+                }
+            }
+
+            let size = 34;
+            function addMarquee() {
+                let marquee = $("marquee:last").clone();
+                $(marquee).text($(marquee).text()+"\xa0".repeat(Math.floor(Math.random() * 40 + 10))+$(marquee).text());
+                $(marquee).attr("scrollamount", Math.floor(Math.random() * 20 + 2)* 2);
+                $(marquee).css("font-size", (size -= 3) + 'px');
+                $("body").append(marquee);
+
+                if(size < 3) clearInterval(marquees);
+            }
+
+            let marquees = setInterval(addMarquee, 1000);
+        </script>
+    </body>
+</html>

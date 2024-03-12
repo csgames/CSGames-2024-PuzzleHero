@@ -1,0 +1,15 @@
+name: "Social (6)"
+author: "Nicolas Hurtubise and Alizée Gagnon"
+description: |
+  If you missed it, see `Social (2)` for an explanation.
+
+  **Let's talk!**
+
+flags:
+    - "FLAG{Maybe the real friends were the flags we made along the way}"
+
+requirements:
+    - "Social (5)"
+
+tags:
+    - social
