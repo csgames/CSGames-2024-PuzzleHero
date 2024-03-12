@@ -1,0 +1,13 @@
+name: "Patience 2"
+author: "Nicolas Hurtubise"
+description: |
+  Keep going...
+
+flags:
+    - flag{waiting-for-godot}
+
+requirements:
+    - "Patience 1"
+
+tags:
+    - web

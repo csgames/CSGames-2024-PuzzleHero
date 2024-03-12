@@ -1,0 +1,10 @@
+name: "Patience 1"
+author: "Nicolas Hurtubise"
+description: |
+  We found that this website is quite slow, I hope that won't stop you from inspecting it
+
+flags:
+    - flag{this-book-is-about-MS-Azure-right?-https://hubertreeves.info/livres/patience.html}
+
+tags:
+    - web
