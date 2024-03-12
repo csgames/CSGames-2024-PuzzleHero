@@ -1,0 +1,19 @@
+name: "Who said that ?"
+
+author: "mirego"    
+
+description: |
+    Cʼest la responsabilité du développeur de faire la petite anim
+
+    flag format:
+    flag{...}
+
+flags:
+    - {
+        type: "static",
+        content: "flag{opin}",
+        data: "case_insensitive",
+    }
+
+tags:
+    - mirego

@@ -1,0 +1,15 @@
+name: "Bleu blanc Rouge"
+
+author: "mirego"    
+
+description: |
+    Find the secret code
+
+    flag format:
+    flag{...}
+
+flags:
+    - flag{YOUFOUNDMr.FL@G2024!}
+
+tags:
+    - mirego
