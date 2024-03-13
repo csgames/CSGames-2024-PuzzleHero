@@ -9,6 +9,6 @@ description: |
 flags:
    - FLAG{b9e43ad8a2832f47ffc793c94f46dba2478bab8d}
 tags:
-   - ageOfEmpires2
+   - ageofempires2
 files:
    - flag-steps-fake-2.txt
