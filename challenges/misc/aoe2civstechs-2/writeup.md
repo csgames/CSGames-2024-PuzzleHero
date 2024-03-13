@@ -2,9 +2,7 @@
 
 ## Write-up
 
-The more detailed solution of many puzzles, including this one, can be found at [https://github.com/desharnc27/incoming-csg-2024-python](https://github.com/desharnc27/incoming-csg-2024-python).
-
-Warning for this puzzle: if you see python in the above automatically generated link, change it to java.
+The more detailed solution of many puzzles, including this one, can be found at [https://github.com/desharnc27/incoming-csg-2024-java](https://github.com/desharnc27/incoming-csg-2024-java).
 
 Website https://ageofempires.fandom.com/wiki/ contains the desired data. It's literally the first link you'd get in Google search.
 
