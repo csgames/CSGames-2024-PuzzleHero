@@ -1,0 +1,13 @@
+name: "I accuse!, part 1"
+author: "desharnc27"
+description: |
+   Full description is in pdf. 
+flags:
+   - FLAG{6557099/13634544}
+tags:
+   - mathematics
+   - probability
+files:
+   - iaccuse-en.pdf
+   - iaccuse-fr.pdf
+   - flag-steps-fake.txt

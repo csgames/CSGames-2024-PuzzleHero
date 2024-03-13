@@ -1,0 +1,9 @@
+name: "I accuse!, part 2"
+author: "desharnc27"
+description: |
+   See challenge 1, both share common description in its pdf. 
+flags:
+   - FLAG{1897575782773925539190703878422815958489/2835207499940367381525377228038276644864}
+tags:
+   - mathematics
+   - probability
