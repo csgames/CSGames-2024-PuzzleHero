@@ -5,10 +5,10 @@ En inspectant le code [html](./dist/index.html), on voit que certaine lettre son
 Après il est possible de faire un programme allant reformer les différents morceaux:
 
 ```js
-Array.from(document.querySelectorAll('i[data-piece][data-id]'))
+Array.from(document.querySelectorAll('i[data-piece][data-pos]'))
   .reduce((acc, el) => {
     const piece = el.getAttribute('data-piece');
-    const id = parseInt(el.getAttribute('data-id'), 10);
+    const id = parseInt(el.getAttribute('data-pos'), 10);
     acc[piece] = [...(acc[piece] || [])]
       .reduce((str, c, idx) => {
           return idx === id ?
