@@ -1,0 +1,17 @@
+name: "RIP 2020"
+
+author: "Capucinoxx"    
+
+description: |
+  Arghhhh I'm losing my mind! If only prohibition allowed me to forget the **product** of my changes!
+
+  flag format:
+  flag{...}
+
+flags:
+    - flag{95232698.9125585128}
+    - flag{95232698,9125585128}
+
+tags:
+    - misc
+
