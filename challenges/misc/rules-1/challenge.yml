@@ -1,0 +1,11 @@
+name: "rules 1"
+
+author: "Capucinoxx"    
+
+description: RTFM plz
+
+flags:
+    - flag{Rul35_@re_imp0rtant}
+
+tags:
+    - rules
