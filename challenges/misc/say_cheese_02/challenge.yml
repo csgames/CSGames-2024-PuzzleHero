@@ -1,10 +1,9 @@
 name: "Say Cheese 2"
 author: "Otaphoque"
 description: |
-  Gather your team around the strategic table, where plans are forged and alliances sealed. Post a picture of your team working hard at the table on [here](https://discord.com/channels/1085360050958241852/1217728629690204182).
+  Gather your team around the strategic table, where plans are forged and alliances sealed. Post a picture of your team working hard at your table [here](https://discord.com/channels/1085360050958241852/1217728629690204182). At least 6 persons from your team must be present on the picture.
   <br />
-  Réunissez votre équipe autour de la table stratégique, où les plans sont élaborés et les alliances scellées. Postez une photo de votre équipe travaillant dur à la table [ici](https://discord.com/channels/1085360050958241852/1217728629690204182).
-
+  Réunissez votre équipe autour de votre table stratégique, où tous vos plans sont élaborés et vos alliances scellées. Postez une photo de votre équipe travaillant dur à votre table [ici](https://discord.com/channels/1085360050958241852/1217728629690204182). Au moins 6 personnes de votre équipe doivent être présentes sur la photo.
 flags:
   - flag{hza4pgztzx8bqouh5iwya9d3n6frf1eu}
 
