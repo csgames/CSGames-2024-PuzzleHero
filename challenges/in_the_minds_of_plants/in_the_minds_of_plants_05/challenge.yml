@@ -1,0 +1,19 @@
+name: "In the minds of plants 05"
+author: "Otaphoque"
+description: |
+   Qui n'aime pas les documentaires ? Prenez donc une petite pause et regardez [celui-ci](https://www.youtube.com/watch?v=f4T4pqrxdX4).
+   Who doesn't like documentaries? Take a little break and watch [this one](https://www.youtube.com/watch?v=bA827jFkgPY).
+   <br />
+   What's the IP address and the host of the url that we see?
+   Quelle est l'adresse IP et le host de l'url que l'on voit ?
+   <br />
+   Format
+   flag{#.#.#.# host}
+flags:
+   - {
+        type: "static",
+        content: "flag{129.232.138.235 Xneelo}",
+        data: "case_insensitive",
+   }
+tags:
+   - documentary

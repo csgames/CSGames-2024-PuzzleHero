@@ -1,0 +1,12 @@
+name: "Say cheese 1"
+author: "Otaphoque"
+description: |
+   You'll only fight the Chlorophyllai once in your life! Take a souvenir picture in front of the big logo to immortalize the moment, and send it on [here](https://discord.com/channels/1085360050958241852/1217726307878830161).
+   <br />
+   Vous n'affronterez le Chlorphyllai qu'une seule fois dans votre vie ! Prenez une photo souvenir devant le grand logo pour immortaliser le moment, et envoyez-la dans le salon [here](https://discord.com/channels/1085360050958241852/1217726307878830161).
+
+flags:
+   - flag{pitr6tck2a8vdwmzk4mt80wcmcvcyoq7}
+
+tags:
+   - saycheese

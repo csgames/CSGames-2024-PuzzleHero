@@ -1,0 +1,10 @@
+name: "Professional Stalker 3"
+author: "Otaphoque"
+description: |
+  The CS Games have been trying to up their social media game...  
+  The CS Games ont essayé d'améliorer leur présence sur les réseaux sociaux...
+flags: 
+  - flag{always_check_everything_on_a_post_hehe}
+
+tags:
+  - social_media

@@ -1,0 +1,19 @@
+name: "Shinrin yoku 04"
+author: "Otaphoque"
+description: |
+   Time to touch grass! Go for a walk and really, I mean really, feel the nature around you.
+   Il est l'heure de *toucher de l'herbe*! Allez marcher et vraiment, je veux dire vraiment, ressentez la nature autour de vous.
+   <br />
+   What is the name of the relatively small monument that has 12 columns?
+   Quel est le nom du monument relativement petit qui possède 12 colonnes?
+   <br />
+   Format 
+   flag{name}
+flags:
+   - {
+        type: "static",
+        content: "flag{macdonald monument}",
+        data: "case_insensitive",
+   }
+tags:
+   - shinrin_yoku

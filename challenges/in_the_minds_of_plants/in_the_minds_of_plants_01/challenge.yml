@@ -1,0 +1,19 @@
+name: "In the minds of plants 01"
+author: "Otaphoque"
+description: |
+   Qui n'aime pas les documentaires ? Prenez donc une petite pause et regardez [celui-ci](https://www.youtube.com/watch?v=f4T4pqrxdX4).
+   Who doesn't like documentaries? Take a little break and watch [this one](https://www.youtube.com/watch?v=bA827jFkgPY).
+   <br />
+   Who is a researcher as University of Freiburg?
+   Qui est un chercheur à l'univesrité de Faubourg ?
+   <br />
+   Format
+   flag{Name Lastname}
+flags:
+   - {
+        type: "static",
+        content: "flag{Edgar Wagner}",
+        data: "case_insensitive",
+   }
+tags:
+   - documentary

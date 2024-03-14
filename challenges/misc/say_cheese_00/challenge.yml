@@ -1,0 +1,15 @@
+name: "Say cheese 0"
+author: "Otaphoque"
+description: |
+  The OC (Organizing Committee) also knows how to say cheese! What is the sum of the CS Games years of which the t-shirt is present on this picture?
+  Le CO (Comité Organisateur) sait, lui aussi, dire cheese! Quelle est la somme des années des CS Games dont le t-shirt est présent sur cette photo ?
+  <br />
+  Format : flag{number-written-in-lowercase-letters}
+
+flags:
+  - flag{four-thousand-thirty-nine}
+files:
+    - saycheese.jpeg
+    
+tags:
+  - saycheese
