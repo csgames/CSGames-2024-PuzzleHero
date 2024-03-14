@@ -1,4 +1,4 @@
-# Say cheese 2
+# Say cheese 5
 
  ## Write-up
 
@@ -6,4 +6,4 @@
 
  ## Flag
 
- `flag{aul5g3pbg4qps6fyrrc0e9od33v5o9o0}`
+ `flag{1nB96bEm4ZaRA6xVFGcxwcHmcAwmOHS5}`

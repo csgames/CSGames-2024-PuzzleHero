@@ -1,4 +1,4 @@
-# Say cheese 2
+# Say cheese 0
 
 ## Write-up
 
@@ -7,7 +7,7 @@
 
 2016 + 2023 = 4039 => four-thousand-thirty-nine
 
-![Photo du CO](./saycheese2.jpeg)
+![Photo du CO](./saycheese.jpeg)
 
 
 ## Flag
