@@ -1,0 +1,30 @@
+# Name of the challenge
+name: "Super CS Games"
+
+# This key isn't optional, but you can set it to 'anonymous' if you want to stay anonymous.
+author: "Fauteux"    
+
+# Description of the challenge (Markdown supported).
+description: | 
+    ##  Can you play?
+    Time to show your game skill
+    
+    ### Format
+    Flag format is FLAG-XXXX all in caps
+    The number zero is never found in a flag.
+
+
+# Flags specify answers that your challenge use.
+# Accepts strings or dictionaries of CTFd API data
+# !! YOU NEED AT LEAST ONE FLAG !!
+flags:
+    # A static case sensitive flag
+    - FLAG-CO1NP4TH
+
+
+# Tags are used to provide additional public tagging to a challenge
+# Accepts strings
+# !! YOU NEED AT LEAST ONE TAG !!
+tags:
+    - misc
+
