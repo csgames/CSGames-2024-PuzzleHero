@@ -13,6 +13,9 @@ description: |
     Flag format is FLAG-XXXX all in caps
     The number zero is never found in a flag.
 
+    ### Notes
+    This has been tested using Snes9x.
+
 
 # Flags specify answers that your challenge use.
 # Accepts strings or dictionaries of CTFd API data
