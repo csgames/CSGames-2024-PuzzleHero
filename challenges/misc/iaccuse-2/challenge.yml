@@ -1,0 +1,13 @@
+name: "I accuse!, part 2"
+author: "desharnc27"
+description: |
+   This time, one member of the crew (we won't name names) pushed the envelope a bit too far...
+   
+   All description is in the first challenge's pdf, since they share common context.
+   You need to read the previous challenge before trying this one.
+   But you don't need to solve the previous challenge before trying this one.
+flags:
+   - FLAG{1897575782773925539190703878422815958489/2835207499940367381525377228038276644864}
+tags:
+   - mathematics
+   - probability

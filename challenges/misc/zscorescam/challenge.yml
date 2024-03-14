@@ -1,0 +1,16 @@
+name: "Lily Bernard at Learngame-HC College"
+author: "desharnc27"
+description: |
+   You think students are the biggest cheaters? You haven't seen anything yet...
+   
+   Full description is in pdf. 
+flags:
+   - FLAG{70dd5eb985dca345fae297712542e61bf0ee7cfa}
+tags:
+   - mathematics
+   - statistics
+files:
+   - zscorescam-en.pdf
+   - zscorescam-fr.pdf
+   - flag-steps-fake.txt
+   - data.txt

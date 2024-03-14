@@ -1,0 +1,14 @@
+name: "Aoe2 civs and techs, part 2"
+author: "desharnc27"
+description: |
+   Too small too easy? Think again...
+   
+   All description is in the first challenge's pdf, since they share common context.
+   You need to read the previous challenge before trying this one.
+   But you don't need to solve the previous challenge before trying this one.
+flags:
+   - FLAG{b9e43ad8a2832f47ffc793c94f46dba2478bab8d}
+tags:
+   - ageofempires
+files:
+   - flag-steps-fake-2.txt

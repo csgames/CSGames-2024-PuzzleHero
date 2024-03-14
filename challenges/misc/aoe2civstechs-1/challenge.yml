@@ -1,0 +1,19 @@
+name: "Aoe2 civs and techs, part 1"
+author: "desharnc27"
+description: |
+   Even the best PC game, AgeOfEmpires2, is slowly being taken over by chlorophyllAI.
+   
+   My little brother stopped playing the actual game, since he was getting destroyed by chlorophyllAI.
+   
+   So now he copes with grief by drawing grids...
+   
+   All description is in the pdf, which also contains the description of the second challenge, since they share common context.
+   Context is shared, but flags are independent, so you don't need one before trying the other.
+flags:
+   - FLAG{4e0d18448c7a6cd1aa8c6af049fb897fb73f6fe8}
+tags:
+   - ageofempires
+files:
+   - aoe2civstechs-en.pdf
+   - aoe2civstechs-fr.pdf
+   - flag-steps-fake.txt

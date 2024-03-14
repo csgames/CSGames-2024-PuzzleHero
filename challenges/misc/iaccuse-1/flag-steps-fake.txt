@@ -1,0 +1,3 @@
+unsimplified_fake_answer->175/375
+fake_answer-------------->7/15
+Flag--------------------->FLAG{7/15}

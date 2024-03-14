@@ -1,0 +1,3 @@
+fake_answer------->Ethiopians,Japanese,Sicilians,Slavs,Spanish,Bloodlines,Bombard_Cannon,Heated_Shot,Blast_Furnace,Gold_Shaft_Mining,Crop_Rotation
+sha1(fake_answer)->915d255a0143c6b38537b0bba6a245624271349b
+Flag-------------->FLAG{915d255a0143c6b38537b0bba6a245624271349b}

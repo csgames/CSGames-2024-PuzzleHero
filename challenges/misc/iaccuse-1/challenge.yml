@@ -1,0 +1,18 @@
+name: "I accuse!, part 1"
+author: "desharnc27"
+description: |
+   If you're wondering what happens when a bunch of nerds are packed into an apartment...
+   
+   The result is a hard mathematics challenge, but if you're the only one to solve, that's a lot of points$$$$.
+   
+   All description is in the pdf, which also contains the description of the second challenge, since they share common context.
+   Context is shared, but flags are independent, so you don't need one before trying the other.
+flags:
+   - FLAG{6557099/13634544}
+tags:
+   - mathematics
+   - probability
+files:
+   - iaccuse-en.pdf
+   - iaccuse-fr.pdf
+   - flag-steps-fake.txt
