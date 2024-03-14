@@ -1,0 +1,19 @@
+name: "Open to all"
+
+author: "mirego"    
+
+description: |
+    I am Miregoʼs open key that shapes the written voices
+
+    flag format:
+    flag{...}
+
+flags:
+    - {
+        type: "static",
+        content: "flag{accent}",
+        data: "case_insensitive",
+    }
+
+tags:
+    - mirego

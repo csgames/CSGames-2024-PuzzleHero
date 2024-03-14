@@ -1,0 +1,19 @@
+name: "Prized possessions"
+
+author: "mirego"    
+
+description: |
+    Which prize did Mirego win the most?
+
+    flag format:
+    flag{...}
+
+flags:
+    - {
+        type: "static",
+        content: "flag{boomerang}",
+        data: "case_insensitive",
+    }
+
+tags:
+    - mirego

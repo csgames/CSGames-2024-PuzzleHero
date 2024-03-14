@@ -1,0 +1,15 @@
+name: "Blast from the past"
+
+author: "mirego"    
+
+description: |
+  It is 2010 and you canʼt wait to start your day at Mirego in Montreal. Which suite number do you go to?
+
+    flag format:
+    flag{...}
+
+flags:
+    - flag{2400}
+
+tags:
+    - mirego

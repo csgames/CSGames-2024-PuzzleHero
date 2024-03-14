@@ -1,0 +1,15 @@
+name: "We care"
+
+author: "mirego"    
+
+description: |
+    We are tied to
+
+    flag format:
+    flag{...}
+
+flags:
+    - flag{the cause}
+
+tags:
+    - mirego
