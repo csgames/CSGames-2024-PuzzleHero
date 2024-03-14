@@ -1,15 +1,15 @@
 name: "In the minds of plants 10"
 author: "Otaphoque"
 description: |
-   In what university does Inoru do his research?
-   Dans quelle université Inoru fait-il ses recherches ?
+   What junk food do scientists eat during their shifts?
+   Quelle malbouffe les scientifiques mangent-ils pendant leur shift ?
 
    Format
-   flag{Name}
+   flag{**** ****}
 flags:
    - {
-        type: "regex",
-        content: "flag{(Tohoku University|Université de Tohoku|Tohoku)}",
+        type: "static",
+        content: "flag{Mini Oreo}",
         data: "case_insensitive",
    }
 tags:

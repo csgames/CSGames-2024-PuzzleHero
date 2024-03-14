@@ -1,15 +1,15 @@
 name: "In the minds of plants 7"
 author: "Otaphoque"
 description: |
-   Where was the colleague who told Francis Hallé to not drop the idea that advanced organisms have more genes born?
-   Où est né le collègue de Francis Hallé qui lui a dit de ne pas abandonner l'idée que plus les organismes sont avancés, plus ils ont de gènes ?
+   What is the office number of the 5th biologist we see?
+   Quel est le numéro de la salle / du bureau du 5ème biologiste que nous voyons ?
 
    Format
-   flag{City Name}
+   flag{********** ***}
 flags:
    - {
         type: "static",
-        content: "flag{Le Petit-Pressigny}",
+        content: "flag{Sozialraum 520}",
         data: "case_insensitive",
    }
 tags:

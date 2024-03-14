@@ -1,0 +1,16 @@
+name: "In the minds of plants 1"
+author: "Otaphoque"
+description: |
+   Who is a researcher as University of Freiburg?
+   Qui est un chercheur à l'univesrité de Faubourg ?
+
+   Format
+   flag{Name Lastname}
+flags:
+   - {
+        type: "static",
+        content: "flag{Edgar Wagner}",
+        data: "case_insensitive",
+   }
+tags:
+   - documentary

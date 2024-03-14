@@ -2,8 +2,8 @@
 
  ## Write-up
 
-Timestamp (French) : 16:00
+Timestamp (French) : 32:30
 
  ## Flag
 
-`flag{flag{fifty thousand}}`
+`flag{022-388-7022}`

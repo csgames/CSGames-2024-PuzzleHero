@@ -1,15 +1,15 @@
 name: "In the minds of plants 3"
 author: "Otaphoque"
 description: |
-   Who is a researcher as University of Freiburg?
-   Qui est un chercheur à l'univesrité de Faubourg ?
+   What family does the animal that we see through spy glasses belong to?
+   A quelle famille appartient l'animal que nous apercevons à travers une paire de jumelles ?
 
    Format
-   flag{Name Lastname}
+   flag{Name}
 flags:
    - {
         type: "static",
-        content: "flag{Edgar Wagner}",
+        content: "flag{Hippopotamidae}",
         data: "case_insensitive",
    }
 tags:

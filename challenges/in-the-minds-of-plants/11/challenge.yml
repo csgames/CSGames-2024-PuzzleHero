@@ -1,16 +1,12 @@
 name: "In the minds of plants 11"
 author: "Otaphoque"
 description: |
-   How many genes does a grain of rice have?
-   Combien de gène un grain de riz a-t-il ?
+   What is the fax number of the 'Million Gene research laboratory inc.'?
+   Quel est le fax du 'Million Gene research laboratory inc.' ?
 
    Format
-   flag{number} (in letters, in English)
+   flag{***-***-***}
 flags:
-   - {
-        type: "regex",
-        content: "flag{(fifty thousand}",
-        data: "case_insensitive",
-   }
+   - flag{022-388-7022}
 tags:
    - documentary

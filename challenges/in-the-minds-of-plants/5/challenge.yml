@@ -1,15 +1,15 @@
 name: "In the minds of plants 5"
 author: "Otaphoque"
 description: |
-   What plant, other than the bean, is used to demonstrate the hypothetical mechanism of Memory?
-   Quelle plante, autre que le petit pois, est utilisée pour démontrer le mécanisme hypothétique de la mémoire ?
+   What's the IP address and the host of the url that we see?
+   Quelle est l'adresse IP et le host de l'url que l'on voit ?
 
    Format
-   flag{Name}
+   flag{#.#.#.# host}
 flags:
    - {
         type: "static",
-        content: "flag{Dionaea}",
+        content: "flag{129.232.138.235 Xneelo}",
         data: "case_insensitive",
    }
 tags:

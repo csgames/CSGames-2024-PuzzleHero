@@ -2,8 +2,8 @@
 
  ## Write-up
 
-Answer found on the sign at 28:10 in the French version.
+Timestamp (French) : 33:45
 
  ## Flag
 
-`flag{Tohoku}`
+`flag{Mini Oreo}`

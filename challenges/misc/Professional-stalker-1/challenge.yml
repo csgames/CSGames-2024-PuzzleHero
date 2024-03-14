@@ -1,0 +1,12 @@
+name: "Professional stalker 1"
+author: "Otaphoque"
+description: |
+   The CS Games have been trying to up their social media game...
+   The CS Games ont essayé d'améliorer leur présence sur les réseaux sociaux...
+flags:
+   - {
+        type: "static",
+        content: "flag{bravo_you_are_a_real_confirmed_stalker_congrats_now}",
+   }
+tags:
+   - social_media

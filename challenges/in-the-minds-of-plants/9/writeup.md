@@ -2,9 +2,8 @@
 
  ## Write-up
 
-Timestamp : N/A
-The animal is a hippopotamus
+Timestamp (French) : N/A
 
  ## Flag
 
-`flag{Hippopotamidae}`
+`flag{luxurious}`

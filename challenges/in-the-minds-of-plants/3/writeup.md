@@ -2,8 +2,9 @@
 
  ## Write-up
 
-Timestamp (French) : 19:00
+Timestamp : N/A
+The animal is a hippopotamus
 
  ## Flag
 
-`flag{Edgar Wagner}`
+`flag{Hippopotamidae}`

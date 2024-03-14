@@ -1,15 +1,15 @@
 name: "In the minds of plants 2"
 author: "Otaphoque"
 description: |
-   Who published a work on crowling of roots with ethylene signaling and during what year?
-   Qui a publié un travail sur les racines rampantes avec signalement à l'éthylène, et en quelle année ?
+   What is the brand of the mousepad?
+   De quelle marque est le tapis de souris ?
 
    Format
-   flag{**** ** *** YYYY}
+   flag{Brand}
 flags:
    - {
         type: "static",
-        content: "flag{Hahn et al. 2006}",
+        content: "flag{Andor}",
         data: "case_insensitive",
    }
 tags:

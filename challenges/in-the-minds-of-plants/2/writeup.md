@@ -2,8 +2,8 @@
 
  ## Write-up
 
-Timestamp (Egnlish) : 44:30
+Timestamp (French) : 44:00
 
  ## Flag
 
-`flag{Hahn et al. 2006}`
+`flag{Andor}`

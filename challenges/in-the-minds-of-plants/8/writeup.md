@@ -2,9 +2,8 @@
 
  ## Write-up
 
-Timestamp (English) : 8:00
-Timestamp (French) : 12:55
+Timestamp (French) : N/A
 
  ## Flag
 
-`flag{poles and deserts}`
+`flag{09:05}`

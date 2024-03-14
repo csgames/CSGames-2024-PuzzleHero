@@ -2,8 +2,8 @@
 
  ## Write-up
 
-Timestamp (French) : 44:00
+Timestamp (English) : 2:35
 
  ## Flag
 
-`flag{Andor}`
+`flag{M489GP}`

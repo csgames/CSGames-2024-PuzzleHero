@@ -1,16 +1,17 @@
 name: "In the minds of plants 12"
 author: "Otaphoque"
 description: |
-   What's written on the very first sign that we see on the screen?
-   Qu’affiche le premier panneau que l’on voit à l’écran ?
+   What is the name of the 9th person who has a job that starts with a 'b' ?
+   Quel est le nom de la neuvième personne dont le métier commence par un 'b'?
 
    Format
-   flag{Word} (exactly as written)
+   flag{Name Lastname}
 flags:
    - {
         type: "static",
-        content: "flag{FireWorks Dept}",
+        content: "flag{Franti(s|š)ek Balu(s|š)ka}",
         data: "case_insensitive",
    }
+   - flag{Frantisek Baluska}
 tags:
    - documentary

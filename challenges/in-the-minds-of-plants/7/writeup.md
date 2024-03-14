@@ -2,8 +2,8 @@
 
  ## Write-up
 
-Timestamp (French) : 16:15, the dude is Axel Kahn.
+Le 5ème biologiste est Frantisek Balluska (timestamp 43:39 French), son office number est vu plus tôt dans le documentaire (timestamp N/A)
 
  ## Flag
 
-`flag{Le Petit-Pressigny}`
+`flag{Sozialraum 520}`

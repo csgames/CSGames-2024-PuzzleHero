@@ -1,16 +1,12 @@
 name: "In the minds of plants 8"
 author: "Otaphoque"
 description: |
-   Where can you not find carnivorous plants?
-   Où ne pouvons-nous pas trouver de plantes carnivores ?
+   At what time does the plant wake up at?
+   A quelle heure la plante se réveille-t-elle ?
 
    Format
-   flag{***** and *******}
+   flag{hh:mm}
 flags:
-   - {
-        type: "static",
-        content: "flag{poles and deserts}",
-        data: "case_insensitive",
-   }
+   - flag{09:05}
 tags:
    - documentary

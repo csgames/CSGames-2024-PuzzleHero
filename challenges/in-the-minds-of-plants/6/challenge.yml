@@ -1,15 +1,15 @@
 name: "In the minds of plants 6"
 author: "Otaphoque"
 description: |
-   What does IZMB stand for (as presented in the documentary)?
-   Que veut dire le sigle IZMB (présenté exactement comme dans le documentaire) ?
+   What are the names of the musics for plants?
+   Quels sont les noms des musiques pour plantes ? 
 
    Format
-   flag{******** *** ********* * ********** ****}
+   flag{******** and **********}
 flags:
    - {
         type: "static",
-        content: "flag{Institut f(ü|u)r Zellul(ä|a)re & Molekulare Bonn}",
+        content: "flag{Effluves and Luxuriance}",
         data: "case_insensitive",
    }
 tags:

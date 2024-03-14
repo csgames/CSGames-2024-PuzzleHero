@@ -1,16 +1,12 @@
 name: "In the minds of plants 4"
 author: "Otaphoque"
 description: |
-   What is the brand of the mousepad?
-   De quelle marque est le tapis de souris ?
+   What can we read on the screen when we learn that 34 kudus died?
+   Que peut-on lire à l'écran quand on apprend que 34 koudous sont décédés ?
 
    Format
-   flag{Brand}
+   flag{******}
 flags:
-   - {
-        type: "static",
-        content: "flag{Andor}",
-        data: "case_insensitive",
-   }
+   - flag{M489GP}
 tags:
    - documentary

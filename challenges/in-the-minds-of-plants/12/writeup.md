@@ -2,8 +2,8 @@
 
  ## Write-up
 
-Timestamp : N/A
+Timestamp (French) : N/A
 
  ## Flag
 
-`flag{FireWorks Dept}`
+`flag{Frantisek Baluska}`
