@@ -1,0 +1,19 @@
+name: "Shinrin yoku 03"
+author: "Otaphoque"
+description: |
+   Time to touch grass! Go for a walk and really, I mean really, feel the nature around you.
+   Il est l'heure de *toucher de l'herbe*! Allez marcher et vraiment, je veux dire vraiment, ressentez la nature autour de vous.
+
+   On the way to the hotel, at the intersection of which streets can you see the 4th mailbox? Only give the full name of the street with the longest name.
+   Sur le chemin vers l'hôtel, au croisement de quelles rues peut-on voir la 4ème boîte aux lettres ? Ne donnez que le nom complet de la rue ayant le nom le plus long.
+
+   Format 
+   flag{street name}
+flags:
+   - {
+        type: "static",
+        content: "flag{boulevard de Maisonneuve}",
+        data: "case_insensitive",
+   }
+tags:
+   - shinrin_yoku
