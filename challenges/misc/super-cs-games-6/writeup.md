@@ -2,9 +2,8 @@
 
 ## Write-up
 
-In Level Gone Fishing, in the second part of the level. 
-Using the double key on the left to open the doors.
+In Level Unlock Thy Path, spread across the level.
 
 ## Flag
 
-`FLAG-GHO5TSH1PK3Y`
+`FLAG-K3YS4NDLOCKEDDOOR5`

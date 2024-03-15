@@ -2,8 +2,8 @@
 
 ## Write-up
 
-In Level On Or Off?. Hidden around mid level, on the bottom.
+In Level Patience, hidden behind the Boss Door through a hidden path in the floor.
 
 ## Flag
 
-`FLAG-FUNW1THONOFF`
+`FLAG-L4Y3R2FUN`

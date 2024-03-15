@@ -2,8 +2,8 @@
 
 ## Write-up
 
-In Level Patience, hidden behind the Boss Door through a hidden path in the floor.
+Either waiting 4095 seconds after the credits OR by opening Level 104 in Lunar Magic.
 
 ## Flag
 
-`FLAG-L4Y3R2FUN`
+`FLAG-LOLYOUW4IT3D`

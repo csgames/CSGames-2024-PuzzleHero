@@ -2,8 +2,8 @@
 
 ## Write-up
 
-In Level Brrr! It's Cold, after the goal post. Through the under path with the fire flower.
+After beating the boss in level Can You Spin?
 
 ## Flag
 
-`FLAG-BEH1NDTH3GO4L`
+`FLAG-C4STLEC4V3`

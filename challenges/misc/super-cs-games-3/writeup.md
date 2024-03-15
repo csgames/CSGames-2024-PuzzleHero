@@ -2,8 +2,9 @@
 
 ## Write-up
 
-In tutorial level, go down the pipe when reaching the end
+In Level Gone Fishing, in the second part of the level. 
+Using the double key on the left to open the doors.
 
 ## Flag
 
-`FLAG-SUPERM4R1OWORLD1SFUN`
+`FLAG-GHO5TSH1PK3Y`

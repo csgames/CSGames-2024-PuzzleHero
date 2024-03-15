@@ -19,7 +19,7 @@ description: |
 # !! YOU NEED AT LEAST ONE FLAG !!
 flags:
     # A static case sensitive flag
-    - FLAG-BEH1NDTH3GO4L
+    - FLAG-C4STLEC4V3
 
 
 # Tags are used to provide additional public tagging to a challenge
@@ -27,3 +27,4 @@ flags:
 # !! YOU NEED AT LEAST ONE TAG !!
 tags:
     - misc
+

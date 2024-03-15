@@ -2,8 +2,8 @@
 
 ## Write-up
 
-In Level Brrr! It's Cold, at the top left after the climb in the water.
+In Level Can You Spin?, going up the pipe at the beginning of the level.
 
 ## Flag
 
-`FLAG-F1R3M3LT1C3`
+`FLAG-UPTHEP1P3`

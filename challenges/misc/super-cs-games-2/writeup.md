@@ -2,8 +2,8 @@
 
 ## Write-up
 
-Start the ROM. Wait on the title screen for Mario to reach the flag.
+In tutorial level, go down the pipe when reaching the end
 
 ## Flag
 
-`FLAG-SUP3RC5WORLD`
+`FLAG-SUPERM4R1OWORLD1SFUN`
