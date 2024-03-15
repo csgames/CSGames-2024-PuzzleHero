@@ -3,7 +3,7 @@ name: "1000 already??"
 author: "Alizée Gagnon"    
 
 description: |
-    Time does fly by
+    flag{Time does fly by}
 
 flags:
     - flag{ERUPT}
