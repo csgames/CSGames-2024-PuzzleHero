@@ -1,0 +1,12 @@
+name: "1000 already??"
+
+author: "Alizée Gagnon"    
+
+description: |
+    Time does flies by
+
+flags:
+    - flag{ERUPT}
+
+tags:
+    - misc
