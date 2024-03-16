@@ -193,6 +193,8 @@ ${flag3}
         `.trim();
     }
 
+    // The Puzzle Hero Firewall Gods must be pleased
+    delay = Math.min(delay, 1000 * 60 * 19.5);
 
     let timeoutAnswer = setTimeout(() => {
         console.log(new Date(), `data sent ${id}`);
